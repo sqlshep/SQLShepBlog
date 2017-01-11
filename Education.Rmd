@@ -1,0 +1,109 @@
+---
+title: "Educational Attainment by County"
+
+output: html_document
+---
+
+<style>
+  .col2 {
+    columns: 2 200px;         /* number of columns and width in pixels*/
+    -webkit-columns: 2 200px; /* chrome, safari */
+    -moz-columns: 2 200px;    /* firefox */
+     line-height: 2em;
+     font-size: 10pt;
+
+  }
+
+</style>
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE,warning=FALSE)
+
+require(choroplethr)
+
+```
+
+
+```{r one}
+
+#Load data
+ setwd("/users/Shep/git/SQLShepBlog/data/")
+ usa <- read.csv("US-Education.csv",stringsAsFactors=FALSE)
+
+#Seperate data for choropleth 
+ lessHighSchool <- subset(usa[c("FIPS.Code","Percent.of.adults.with.less.than.a.high.school.diploma..2010.2014")],FIPS.Code >0)
+ highSchool <- subset(usa[c("FIPS.Code","Percent.of.adults.with.a.high.school.diploma.only..2010.2014")],FIPS.Code >0) 
+ someCollege <- subset(usa[c("FIPS.Code","Percent.of.adults.completing.some.college.or.associate.s.degree..2010.2014")],FIPS.Code >0)
+ college <- subset(usa[c("FIPS.Code","Percent.of.adults.with.a.bachelor.s.degree.or.higher..2010.2014")],FIPS.Code >0)
+
+#rename columns foChoropleth
+ 
+ colnames(lessHighSchool)[which(colnames(lessHighSchool) == 'FIPS.Code')] <- 'region'
+ colnames(lessHighSchool)[which(colnames(lessHighSchool) == 'Percent.of.adults.with.less.than.a.high.school.diploma..2010.2014')] <- 'value'
+ #or
+ names(highSchool) <-c("region","value")
+ names(someCollege) <-c("region","value")
+ names(college) <-c("region","value")
+ 
+ 
+```
+
+
+<div class="col2">
+
+```{r Histogram 1}
+ hist(lessHighSchool$value,xlim=c(0,60),breaks=30, xlab = "Percent of High School Dropouts", ylab="Number of Counties",main="",col="lightblue")
+
+ hist(highSchool$value,xlim=c(0,60),breaks=30, xlab = "Percent Completed High School ", ylab="Number of Counties",main="",col="lightblue")
+ 
+```
+ 
+ 
+```{r Histogram 2}
+
+ hist(someCollege$value,xlim=c(0,50),breaks=30, xlab = "Percent Completed Associates or Some College ", ylab="Number of Counties",main="",col="lightblue")
+ 
+ hist(college$value,xlim=c(0,90),breaks=30, xlab = "Percent Completed Bachelors Degree or Higher ", ylab="Number of Counties",main="",col="lightblue")
+
+
+```
+
+</div>
+
+```{r two, fig.width=9, fig.height=5, fig.align='right'}
+
+
+ county_choropleth(lessHighSchool,
+                  
+                   title = "Proportion of High School Dropouts",
+                   legend="Proportion",
+                   num_colors=9)
+ 
+```
+
+
+```{r three, fig.width=9, fig.height=5, fig.align='right'}
+ county_choropleth(highSchool,
+                   title = "Proportion Completed High School Only",
+                   legend="Proportion",
+                   num_colors=9)
+```
+
+
+```{r four, fig.width=9, fig.height=5, fig.align='right'}
+
+ county_choropleth(someCollege,
+                   title = "Proportion of Associates degree or some College",
+                   legend="Proportion",
+                   num_colors=9)
+```
+
+
+```{r five, fig.width=9, fig.height=5, fig.align='right'}
+
+ county_choropleth(college,
+                   title = "Proportion Completed Bachelors Degree or Higher",
+                   legend="Proportion",
+                   num_colors=9)
+
+```
