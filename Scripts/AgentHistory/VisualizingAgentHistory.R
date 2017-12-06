@@ -1,6 +1,6 @@
 #install.packages("odbc")
 #install.packages("ggplot2")
-#install.packages("dolyr")
+#install.packages("dplyr")
 #install.packages("lubridate")
 #install.packages("scales")
 
@@ -9,7 +9,7 @@ library(ggplot2)
 library(dplyr)
 library(lubridate)
 library(scales)
-library(plotly)
+
 
 Sys.setenv(TZ='GMT')
 
@@ -24,9 +24,10 @@ SQLStmt <- sprintf("declare @date varchar(8)
     exec sp_help_jobhistory @start_run_date = @date, @mode='FULL'")
 
 
+
 rs <- dbSendQuery(MSDB, SQLStmt)
 
-# Warningis normal in this case on a guid, can use 
+# Warning is normal in this case on a guid, can use 
 # try catch to deal with warning can be created
 # https://github.com/r-dbi/odbc/pull/29
 
@@ -36,6 +37,7 @@ msdbAgentHist <- dbFetch(rs)
 dbClearResult(rs)
 dbDisconnect(MSDB)
 
+keepCopy <- msdbAgentHist
 
 # Save an object to a file
 #saveRDS(msdbAgentHist, file = "C:/Users/adminshep/Documents/msdbAgentHist.rds")
@@ -51,13 +53,17 @@ dbDisconnect(MSDB)
 #msdbAgentHist <- filter(msdbAgentHist, run_date >= "20171101")
 
 #this will keep only dates > max(run_date)-2 or how ever many days you want to go back
-msdbAgentHist <- filter(msdbAgentHist, run_date >= max(run_date)-2)
+#msdbAgentHist <- keepCopy
+#msdbAgentHist <- filter(msdbAgentHist, run_date >= max(run_date)-1)
+#msdbAgentHist <- filter(msdbAgentHist, run_date <= min(run_date)+1)
+msdbAgentHist <- filter(msdbAgentHist, run_date == "20171031")
+
 
 #run_duration comes in as INT, so ? 59 in this case will be 59 seconds, 
-msdbAgentHist <- filter(msdbAgentHist, run_duration > 5)
+msdbAgentHist <- filter(msdbAgentHist, run_duration > 1)
 msdbAgentHist <- filter(msdbAgentHist, step_id > 0)
 
-msdbAgentHist$run_time[msdbAgentHist$run_time == "0"] <- "240000"
+msdbAgentHist$run_time[msdbAgentHist$run_time == "0"] <- "000000"
 
 # work on the dates
 msdbAgentHist$run_date <- ymd(msdbAgentHist$run_date)
@@ -75,7 +81,8 @@ msdbAgentHist$run_EndDate   <- "XXX"
 msdbAgentHist$run_EndDateTime   <- "XXX"
 
 
-#MSDB date is stored as actual time but not formatted, so turn it into date time
+# MSDB date is stored as actual time but not formatted, so turn it into date time
+# If you porefer to do this in SQL, there is a function in MSDB called 
 
 rows <- nrow(msdbAgentHist)
 for (i in 1:rows){
@@ -149,7 +156,7 @@ msdbAgentHist$run_EndDate <- format(msdbAgentHist$run_EndDateTime,format="%Y-%m-
 msdbAgentHist$MinutesElapsed <- hour(hms(msdbAgentHist$run_duration)) * 60  + minute(hms(msdbAgentHist$run_duration))
 
 
-p <- ggplot(msdbAgentHist, aes(run_StartHour, run_StartDateTime)) + 
+ggplot(msdbAgentHist, aes(run_StartHour, run_StartDateTime)) + 
   geom_rect(aes(ymin = run_StartDateTime,
                 ymax = run_EndDateTime, 
                 xmin = (run_StartHour ),
@@ -167,8 +174,6 @@ p <- ggplot(msdbAgentHist, aes(run_StartHour, run_StartDateTime)) +
   guides(fill=guide_legend(ncol=1)) +
   labs(title = "SQL Agent History", x = "Start Hour", y = "Duration")
 
-#Display the plot using plotly for interactivity
-ggplotly(p)
 
 ggplot(msdbAgentHist, aes(run_StartHour, run_StartDateTime)) + 
   geom_rect(aes(ymin = run_StartDateTime,
