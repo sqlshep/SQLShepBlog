@@ -14,6 +14,15 @@ data(mtcars)
 head(mtcars)
 View(mtcars)
 
+summary(mtcars)
+str(mtcars)
+
+summary(mtcars$wt)
+summary(mtcars$mpg)
+
+# If you absolutely must convert, here you go
+mtcars$lp100k <- (100 * 3.785) / (1.609 * mtcars$mpg)
+
 #? will display help about thedataset
 #names will display the column/variable names
 ?mtcars
@@ -24,41 +33,30 @@ mtcars$Model <- row.names(mtcars)
 row.names(mtcars) <- NULL
 names(mtcars)
 
-
-data(mtcars)
-
 plot(mtcars$mpg ~ mtcars$wt,
      main = "MTCars Weight");
 abline(lm(mtcars$mpg ~ mtcars$wt),
        lwd=3, 
        col="red")
 
+# Use a side by side chart and add text lables to the dots
+par(mfrow=c(1,2))
+
+plot(mtcars$mpg ~ mtcars$wt,
+     main = "MTCars Weight");
+abline(lm(mtcars$mpg ~ mtcars$wt),
+       lwd=3, 
+       col="red")
+text(mtcars$wt, mtcars$mpg, row.names(mtcars), cex=0.9, pos=4, col="red")
 
 
+plot(mtcars$lp100k ~ mtcars$wt,
+     main = "MTCars Weight");
+abline(lm(mtcars$lp100k ~ mtcars$wt),
+       lwd=3, 
+       col="red")
+text(mtcars$wt, mtcars$lp100k, row.names(mtcars), cex=0.9, pos=4, col="red")
 
-#rename the columns, to something slightly more meaningful
-names(mtcars)[2]<-paste("Cylinders")
-names(mtcars)[3]<-paste("Displacement")
-names(mtcars)[4]<-paste("Horsepower")
-names(mtcars)[5]<-paste("RearAxleRatio")
-names(mtcars)[6]<-paste("Weight")
-names(mtcars)[7]<-paste("QuarterMile")
-names(mtcars)[8]<-paste("VSengine")
-names(mtcars)[9]<-paste("TransmissionAM")
-names(mtcars)[10]<-paste("Gears")
-names(mtcars)[11]<-paste("Carburetors")
-
-
-summary(mtcars)
-str(mtcars)
-
-#Some of the columns are better as factors (categorical)
-# this is one way of converting data types
-
-ColNames <- c("Cylinders","VSengine","TransmissionAM","Gears","Carburetors")
-mtcars[ColNames] <- lapply(mtcars[ColNames], factor)
-
-str(mtcars)
 
 ##########################################################################
 # Demo 2 -  Plot Some stuff, is it linear
@@ -81,28 +79,19 @@ mcheck <- function(obj,...) {
   invisible(NULL)
 }
 
-plot(mtcars$mpg~mtcars$Weight,
-     cex=2, 
-     pch=16,
-     main = "MTCars LM");
-abline(lm(mtcars$mpg ~ mtcars$Weight),
-       lwd=3, 
-       col="red")
-
 #this is the linear regression function that will provide intercept and slope   
-lm(mtcars$mpg ~ mtcars$Weight)
+mtcars.1 <- lm(mtcars$mpg ~ mtcars$wt)
 
-# allow for side by side plotsm 1 row 2 columns
-par(mfrow=c(1,2))
+summary(mtcars.1)
 
 # If we pass in the interept and slope coordinates a "regression line will be drawn through the data"
-plot(mtcars$mpg~mtcars$Weight,
+plot(mtcars$mpg~mtcars$wt,
      cex=1, 
      pch=16);
-abline(37.285, -5.344,
+abline(37.2851, -5.3445,
        lwd=3, 
        col="red")
-
+?mtcars
 plot(mtcars$mpg~mtcars$Horsepower,
      cex=1, 
      pch=16)
