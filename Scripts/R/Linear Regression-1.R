@@ -59,26 +59,6 @@ row.names(mtcars) <- NULL
 names(mtcars)
 
 
-##########################################################################
-# Demo 2 -  Plot Some stuff, is it linear
-##########################################################################
-# Run this, save for later 
-# The R Book page 405, with additions
-mcheck <- function(obj,...) { 
-  rs <- obj$resid
-  fv <- obj$fitted
-  par(mfrow=c(1,2))
-  plot(fv,rs,xlab="Fitted values",ylab="Residuals",pch=16,col="red")
-  abline(h=0,lty=2)
-  
-  abline(2*sd(rs), 0, col="black",lty=5, lwd=3) 
-  abline(-2*sd(rs), 0, col="black",lty=5,lwd=3) 
-  
-  qqnorm(rs,xlab="Normal scores",ylab="Ordered residuals",main="",pch=16)
-  qqline(rs,lty=2,col="green")
-  par(mfrow=c(1,1))
-  invisible(NULL)
-}
 
 #this is the linear regression function that will provide intercept and slope   
 mtcars.1 <- lm(mtcars$mpg ~ mtcars$wt)
@@ -92,3 +72,4 @@ plot(mtcars$mpg~mtcars$wt,
 abline(37.2851, -5.3445,
        lwd=3, 
        col="red")
+
