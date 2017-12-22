@@ -1,7 +1,7 @@
 ##########################################################################
 #  Explore the data 
 ##########################################################################
-
+library(ggplot2)
 # lets look at some other data cars 
 data(mtcars)
 head(mtcars)
@@ -91,4 +91,9 @@ abline(v=4.0, col="green",lwd=3)
 abline(v=9.0, col="blue",lwd=3)
 #reset
 par(bg = 'white')
+
+
+ggplot(mtcars, aes(x=wt, y=mpg)) + 
+  geom_point() + 
+  geom_smooth(method=lm)
 
