@@ -1,12 +1,5 @@
-#install.packages("ggplot2")
-library(ggplot2)
 ##########################################################################
-##########################################################################
-#
-#  Mtcars 
-#
-##########################################################################
-# Demo 1 Explore the data 
+#  Explore the data 
 ##########################################################################
 
 # lets look at some other data cars 
@@ -61,7 +54,7 @@ names(mtcars)
 
 
 #this is the linear regression function that will provide intercept and slope   
-mtcars.1 <- lm(mtcars$mpg ~ mtcars$wt)
+mtcars.1 <- lm(mpg ~ wt,data=mtcars)
 
 summary(mtcars.1)
 
@@ -72,4 +65,30 @@ plot(mtcars$mpg~mtcars$wt,
 abline(37.2851, -5.3445,
        lwd=3, 
        col="red")
+
+
+predict(mtcars.1,list(wt=c(2.0)))
+
+predict(mtcars.1,list(wt=c(2.0,3.0,4.0,9.0)), interval="confidence")
+predict(mtcars.1,list(wt=c(2.0)), interval="prediction")
+
+
+
+##########################################################
+# Intercept and slope 
+##########################################################
+## check out the x and y intercept 
+
+par(bg = 'lightblue')
+plot(mpg~wt,data=mtcars,
+     ylim=c(-15,40),
+     xlim=(c(0,10))
+)
+abline(lm(mtcars$mpg ~ mtcars$wt), col="red",lwd=3)
+abline(v=2.0, col="orange",lwd=3)
+abline(v=3.0, col="yellow",lwd=3)
+abline(v=4.0, col="green",lwd=3)
+abline(v=9.0, col="blue",lwd=3)
+#reset
+par(bg = 'white')
 
