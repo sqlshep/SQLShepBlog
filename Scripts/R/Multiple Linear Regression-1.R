@@ -58,6 +58,7 @@ View(mtcars)
 summary(mtcars)
 str(mtcars)
 
+
 # If you absolutely must convert, here you go
 mtcars$lp100k <- (100 * 3.785) / (1.609 * mtcars$mpg)
 
@@ -152,4 +153,56 @@ newcars = data.frame(Horsepower,Weight)
 
 predict(mtcars.4,newdata=newcars,interval="confidence")
 
+
+#########################################################################
+#  Adding Indicator variables
+#########################################################################
+
+#create factors
+ColNames <- c("Cylinders","VSengine","TransmissionAM","Gears","Carburetors")
+mtcars[ColNames] <- lapply(mtcars[ColNames], factor)
+
+summary(mtcars)
+str(mtcars)
+
+par(mfrow=c(3,2))
+plot(mtcars$Cylinders,main="Cylinders")
+plot(mtcars$VSengine,main="VSengine")
+plot(mtcars$TransmissionAM,main="TransmissionAM")
+plot(mtcars$Gears,main="Gears")
+plot(mtcars$Carburetors,main="Carburetors")
+
+par(mfrow=c(3,2))
+plot(mtcars$mpg ~ mtcars$Cylinders, main="Cylinders")
+plot(mtcars$mpg ~ mtcars$VSengine,main="VSengine")
+plot(mtcars$mpg ~ mtcars$TransmissionAM,main="TransmissionAM")
+plot(mtcars$mpg ~ mtcars$Gears,main="Gears")
+plot(mtcars$mpg ~ mtcars$Carburetors,main="Carburetors")
+
+
+##################################################################
+# Dealing with Factors
+##################################################################
+mtcars.5 <- lm(mpg ~ Horsepower + Weight + Cylinders, data=mtcars)
+summary(mtcars.5)
+
+mtcars.6 <- lm(mpg ~ Horsepower + Weight + Cylinders + VSengine + TransmissionAM + Gears + Carburetors, data=mtcars)
+summary(mtcars.6)
+
+mtcars.7 <- lm(mpg ~ Horsepower + Weight + Cylinders + TransmissionAM, data=mtcars)
+summary(mtcars.7)
+
+
+##################################################################
+# Prediction
+##################################################################
+
+Horsepower <- c(100,150,200,395)
+Weight <- c(2.5,3.5,5.2,5.6)
+Cylinders <- as.factor(c(4,6,8,8))
+TransmissionAM <- as.factor(c(0,1,1,1))
+
+newcars = data.frame(Horsepower,Weight,Cylinders,TransmissionAM)
+
+predict(mtcars.7,newdata=newcars,interval="confidence")
 
