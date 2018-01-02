@@ -206,3 +206,36 @@ newcars = data.frame(Horsepower,Weight,Cylinders,TransmissionAM)
 
 predict(mtcars.7,newdata=newcars,interval="confidence")
 
+##################################################################
+# All Variables
+##################################################################
+  library(ggplot2)
+  library(GGally)
+  ggpairs(mtcars[1:12], aes(alpha = 0.5))
+  
+
+mtcars.8 <- lm(mpg ~ ., data=mtcars[1:11])
+summary(mtcars.8)
+
+#Or
+
+mtcars.8 <- lm(mpg ~ Cylinders+ Displacement+ Horsepower+ RearAxleRatio+ Weight+ QuarterMile+ VSengine+ TransmissionAM+ Gears+ Carburetors, data=mtcars)
+summary(mtcars.8) 
+
+
+##################################################################
+# Forward Stepwise Regression
+##################################################################
+
+##stepwise regression forward
+cars.fwd1 <- step(lm(mpg~1,data=mtcars), direction = "forward", 
+                  scope=(~Cylinders+ Displacement+ Horsepower+ RearAxleRatio+ Weight+ QuarterMile+ VSengine+ TransmissionAM+ Gears+ Carburetors))
+summary(cars.fwd1)
+
+##################################################################
+# Backward Stepwise Regression
+##################################################################
+
+
+cars.back1 <- step(lm(mpg ~ Cylinders+ Displacement+ Horsepower+ RearAxleRatio+ Weight+ QuarterMile+ VSengine+ TransmissionAM+ Gears+ Carburetors,data=mtcars), direction = "backward")
+summary(cars.back1)
