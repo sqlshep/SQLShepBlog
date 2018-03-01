@@ -1,0 +1,1035 @@
+"","Represented.Test.Veh.Make","Model","Vehicle.Type","HorsePower","Cylinders","Tested.Transmission.Type.Code","Tested.Transmission.Type","Gears","Drive.System.Code","Weight","AxleRatio","Test.Procedure.Cd","Test.Procedure.Description","Test.Fuel.Type.Cd","Test.Fuel.Type.Description","FuelEcon"
+"1","Aston Martin","Rapide S","Car",552,"12","SA","Semi-Automatic","8","R",4750,2.73,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",17.3
+"2","Aston Martin","Vanquish","Car",568,"12","SA","Semi-Automatic","8","R",4500,2.73,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",16.5
+"3","BENTLEY","Continental GT","Car",616,"12","SA","Semi-Automatic","8","F",6000,2.85,"90","US06","61","Tier 2 Cert Gasoline",17.4
+"4","BENTLEY","Continental GT","Car",616,"12","SA","Semi-Automatic","8","F",6000,2.85,"11","Cold CO","27","Cold CO Premium (Tier 2)",13.6
+"5","BMW","230i Convertible","Car",248,"4","SA","Semi-Automatic","8","R",4000,2.81,"3","HWFE","61","Tier 2 Cert Gasoline",45.8
+"6","BMW","230i Coupe","Car",248,"4","M","Manual","6","R",3625,3.91,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",26.4
+"7","BMW","230i Coupe","Car",248,"4","SA","Semi-Automatic","8","R",3625,2.81,"3","HWFE","61","Tier 2 Cert Gasoline",50.6
+"8","BMW","230i xDrive Convertible","Car",248,"4","SA","Semi-Automatic","8","R",4000,2.81,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",29.6
+"9","BMW","230i xDrive Coupe","Car",248,"4","SA","Semi-Automatic","8","R",3750,2.81,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",30.3
+"10","BMW","320i","Both",181,"4","A","Automatic","8","R",3625,3.2,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",30.4
+"11","BMW","320i","Both",180,"4","M","Manual","6","R",3625,3.08,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",29.5
+"12","BMW","320i xDrive","Both",181,"4","A","Automatic","8","R",3750,3.15,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",29.9
+"13","BMW","328d","Car",183,"4","SA","Semi-Automatic","8","R",3750,2.81,"2","CVS 75 and later (w/o can. load)","19","Federal Cert Diesel 7-15 PPM Sulfur",42.2
+"14","BMW","328d xDrive","Car",181,"4","SA","Semi-Automatic","8","R",4000,2.81,"2","CVS 75 and later (w/o can. load)","19","Federal Cert Diesel 7-15 PPM Sulfur",41.2
+"15","BMW","328d xDrive Sports Wagon","Car",181,"4","SA","Semi-Automatic","8","R",4250,2.81,"3","HWFE","19","Federal Cert Diesel 7-15 PPM Sulfur",57.2
+"16","BMW","330e","Car",180,"4","SA","Semi-Automatic","8","R",4250,2.93,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",35.6
+"17","BMW","330i","Car",248,"4","SA","Semi-Automatic","8","R",3875,2.81,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",30.8
+"18","BMW","330i","Car",248,"4","M","Manual","6","R",3750,3.91,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",26.7
+"19","BMW","330i xDrive","Car",248,"4","SA","Semi-Automatic","8","R",4000,2.81,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",29.7
+"20","BMW","330i xDrive Gran Turismo","Car",248,"4","SA","Semi-Automatic","8","R",4250,2.93,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",29.3
+"21","BMW","330i xDrive Sports Wagon","Car",248,"4","SA","Semi-Automatic","8","R",4250,2.81,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",28.6
+"22","BMW","340i","Car",320,"6","SA","Semi-Automatic","8","R",4000,2.81,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",29
+"23","BMW","340i","Car",320,"6","M","Manual","6","R",4000,3.23,"3","HWFE","61","Tier 2 Cert Gasoline",41.2
+"24","BMW","340i xDrive","Car",320,"6","SA","Semi-Automatic","8","R",4000,2.81,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",29.2
+"25","BMW","340i xDrive","Car",320,"6","M","Manual","6","R",4000,3.23,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",24.7
+"26","BMW","340i xDrive Gran Turismo","Car",322,"6","SA","Semi-Automatic","8","R",4500,2.93,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",27.4
+"27","BMW","430i Convertible","Car",248,"4","SA","Semi-Automatic","8","R",4250,2.81,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",30.2
+"28","BMW","430i Coupe","Car",248,"4","SA","Semi-Automatic","8","R",3875,2.81,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",30.7
+"29","BMW","430i Coupe","Car",248,"4","M","Manual","6","R",3875,3.91,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",26.6
+"30","BMW","430i Gran Coupe","Car",248,"4","SA","Semi-Automatic","8","R",4000,2.81,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",30
+"32","BMW","430i xDrive Coupe","Car",248,"4","SA","Semi-Automatic","8","R",4000,2.81,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",29.6
+"33","BMW","430i xDrive Gran Coupe","Car",248,"4","SA","Semi-Automatic","8","R",4000,2.81,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",29.2
+"34","BMW","440i Convertible","Car",322,"6","SA","Semi-Automatic","8","R",4500,2.81,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",27.5
+"35","BMW","440i Coupe","Car",322,"6","SA","Semi-Automatic","8","R",4000,2.81,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",27.7
+"36","BMW","440i Coupe","Car",322,"6","M","Manual","6","R",4000,3.23,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",23.2
+"37","BMW","440i Gran Coupe","Car",322,"6","SA","Semi-Automatic","8","R",4000,2.81,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",28.6
+"38","BMW","440i xDrive Convertible","Car",322,"6","SA","Semi-Automatic","8","R",4750,2.81,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",26.5
+"39","BMW","440i xDrive Coupe","Car",322,"6","SA","Semi-Automatic","8","R",4250,2.81,"3","HWFE","61","Tier 2 Cert Gasoline",43.7
+"40","BMW","440i xDrive Coupe","Car",322,"6","M","Manual","6","R",4000,3.23,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",22.7
+"41","BMW","440i xDrive Gran Coupe","Car",322,"6","SA","Semi-Automatic","8","R",4250,2.81,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",27.5
+"42","BMW","530e","Car",180,"4","SA","Semi-Automatic","8","R",4500,3.23,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",35.7
+"43","BMW","530e xDrive","Car",180,"4","SA","Semi-Automatic","8","R",4750,3.23,"3","HWFE","61","Tier 2 Cert Gasoline",43.9
+"44","BMW","530i","Car",248,"4","SA","Semi-Automatic","8","R",4000,3.08,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",31.7
+"45","BMW","530i xDrive","Car",248,"4","SA","Semi-Automatic","8","R",4250,3.08,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",29.8
+"46","BMW","540i","Car",335,"6","SA","Semi-Automatic","8","R",4250,2.93,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",25.8
+"47","BMW","540i xDrive","Car",335,"6","SA","Semi-Automatic","8","R",4250,2.93,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",26.9
+"48","BMW","640i Convertible","Car",300,"6","SA","Semi-Automatic","8","R",4500,3.23,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",26.1
+"49","BMW","640i Convertible","Car",300,"6","SA","Semi-Automatic","8","R",4500,3.23,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",26.5
+"50","BMW","640i xDrive Convertible","Car",300,"6","SA","Semi-Automatic","8","R",4750,3.23,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",24.7
+"51","BMW","640i xDrive Convertible","Car",300,"6","SA","Semi-Automatic","8","R",4750,3.23,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",25.4
+"52","BMW","640i xDrive Gran Turismo","Both",335,"6","SA","Semi-Automatic","8","R",4750,3.08,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",25
+"53","BMW","650i Convertible","Car",448,"8","SA","Semi-Automatic","8","R",4750,2.81,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",22
+"54","BMW","650i xDrive Convertible","Car",448,"8","SA","Semi-Automatic","8","R",5000,2.81,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",19.4
+"55","BMW","740e xDrive","Car",255,"4","SA","Semi-Automatic","8","R",5000,3.23,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",32.1
+"56","BMW","740i","Car",320,"6","SA","Semi-Automatic","8","R",4500,3.08,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",28
+"57","BMW","740i xDrive","Car",320,"6","SA","Semi-Automatic","8","R",4750,3.08,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",24.8
+"58","BMW","750i","Car",443,"8","SA","Semi-Automatic","8","R",4750,2.81,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",22.2
+"59","BMW","750i xDrive","Car",443,"8","SA","Semi-Automatic","8","R",5000,2.81,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",21.7
+"60","BMW","Alpina B7 xDrive","Car",600,"8","SA","Semi-Automatic","8","R",5000,2.81,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",19.2
+"61","BMW","M2","Both",365,"6","AMS","Automated Manual- Selectable (e.g. Automated Manual with paddles)","7","R",3750,3.08,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",25.9
+"62","BMW","M2","Both",365,"6","M","Manual","6","R",3750,3.08,"3","HWFE","61","Tier 2 Cert Gasoline",36
+"63","BMW","M240i","Car",335,"6","SA","Semi-Automatic","8","R",3875,2.81,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",28.3
+"64","BMW","M240i","Car",335,"6","M","Manual","6","R",3750,3.08,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",23.4
+"65","BMW","M240i Convertible","Car",335,"6","SA","Semi-Automatic","8","R",4000,2.81,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",27.4
+"66","BMW","M240i Convertible","Car",335,"6","M","Manual","6","R",4000,3.08,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",23.3
+"67","BMW","M240i xDrive","Car",335,"6","SA","Semi-Automatic","8","R",4000,2.81,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",27.6
+"68","BMW","M240i xDrive Convertible","Car",335,"6","SA","Semi-Automatic","8","R",4250,2.81,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",27.2
+"69","BMW","M3","Car",425,"6","M","Manual","6","R",4000,3.46,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",20.6
+"70","BMW","M3","Car",425,"6","AMS","Automated Manual- Selectable (e.g. Automated Manual with paddles)","7","R",4000,3.46,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",18.4
+"71","BMW","M4 Convertible","Car",425,"6","M","Manual","6","R",4500,3.46,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",20.1
+"72","BMW","M4 Convertible","Car",425,"6","AMS","Automated Manual- Selectable (e.g. Automated Manual with paddles)","7","R",4500,3.46,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",17.8
+"73","BMW","M550i xDrive","Both",455,"8","SA","Semi-Automatic","8","A",4750,2.81,"3","HWFE","61","Tier 2 Cert Gasoline",35.2
+"74","BMW","M6 Convertible","Car",553,"8","M","Manual","6","R",4750,3.15,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",17.9
+"75","BMW","M6 Convertible","Car",553,"8","SA","Semi-Automatic","7","R",4750,3.15,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",19.8
+"76","BMW","M760i xDrive","Car",601,"12","SA","Semi-Automatic","8","A",5500,2.81,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",16.7
+"77","BMW","X1 sDrive28i","Car",228,"4","SA","Semi-Automatic","8","F",3875,3.2,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",29.7
+"78","BMW","X1 xDrive28i","Car",228,"4","SA","Semi-Automatic","8","F",4000,3.2,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",28.9
+"79","BMW","X4 M40i","Both",355,"6","SA","Semi-Automatic","8","A",4500,3.38,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",23.9
+"81","BMW","X5 M","Truck",567,"8","SA","Semi-Automatic","8","A",5500,3.15,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",18
+"82","BMW","X5 sDrive35i","Truck",300,"6","SA","Semi-Automatic","8","R",5000,3.15,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",23.8
+"83","BMW","X5 xDrive35d","Truck",255,"6","SA","Semi-Automatic","8","R",5250,3.15,"3","HWFE","19","Federal Cert Diesel 7-15 PPM Sulfur",41.9
+"84","BMW","X5 xDrive35i","Truck",300,"6","SA","Semi-Automatic","8","R",5000,3.15,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",23.5
+"85","BMW","X5 xDrive40e","Truck",240,"4","SA","Semi-Automatic","8","R",5500,3.15,"90","US06","61","Tier 2 Cert Gasoline",23.6
+"86","BMW","X5 xDrive50i","Truck",443,"8","SA","Semi-Automatic","8","R",5500,3.15,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",17.7
+"87","BMW","X5 xDrive50i","Truck",443,"8","SA","Semi-Automatic","8","R",5500,3.15,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",19.8
+"88","BMW","X6 sDrive35i","Truck",300,"6","SA","Semi-Automatic","8","R",5000,3.15,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",23.7
+"89","BMW","X6 xDrive 50i","Truck",443,"8","SA","Semi-Automatic","8","R",5500,3.15,"3","HWFE","61","Tier 2 Cert Gasoline",27.3
+"90","BMW","X6 xDrive35i","Truck",300,"6","SA","Semi-Automatic","8","R",5000,3.15,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",23.5
+"91","BMW","X6 xDrive50i","Truck",443,"8","SA","Semi-Automatic","8","R",5500,3.15,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",19.7
+"92","Mini","JOHN COOPER WORKS COUNTRYMAN ALL4","Car",228,"4","SA","Semi-Automatic","8","A",4000,3.2,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",28.7
+"93","Mini","JOHN COOPER WORKS COUNTRYMAN ALL4","Car",228,"4","M","Manual","6","A",3875,4.1,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",25.9
+"94","Mini","Mini Cooper Clubman","Car",134,"3","SA","Semi-Automatic","6","F",3500,3.68,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",32.5
+"95","Mini","Mini Cooper Clubman","Car",134,"3","M","Manual","6","F",3375,3.88,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",31.6
+"96","Mini","Mini Cooper Clubman ALL4","Car",134,"3","SA","Semi-Automatic","8","F",3750,3.75,"3","HWFE","61","Tier 2 Cert Gasoline",43.5
+"97","Mini","Mini Cooper Clubman ALL4","Car",134,"3","M","Manual","6","F",3625,4.06,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",28.1
+"98","Mini","Mini Cooper Convertible","Car",134,"3","M","Manual","6","F",3125,3.42,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",34.9
+"99","Mini","Mini Cooper Convertible","Car",134,"3","SA","Semi-Automatic","6","F",3250,3.68,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",34.9
+"100","Mini","Mini Cooper Countryman","Car",134,"3","SA","Semi-Automatic","6","F",3625,4.1,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",31.9
+"101","Mini","Mini Cooper Countryman","Car",134,"3","M","Manual","6","F",3625,4.12,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",31.3
+"102","Mini","Mini Cooper Countryman ALL4","Car",134,"3","M","Manual","6","F",3750,4.06,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",28.8
+"103","Mini","Mini Cooper Countryman ALL4","Car",134,"3","SA","Semi-Automatic","8","F",3875,3.75,"3","HWFE","61","Tier 2 Cert Gasoline",42.4
+"104","Mini","MINI COOPER HARDTOP 2 DOOR","Car",134,"3","SA","Semi-Automatic","6","F",3000,3.68,"3","HWFE","61","Tier 2 Cert Gasoline",51
+"105","Mini","MINI COOPER HARDTOP 2 DOOR","Car",134,"3","M","Manual","6","F",2875,3.42,"35","California fuel 3-day exhaust","61","Tier 2 Cert Gasoline",36.3
+"106","Mini","MINI COOPER HARDTOP 4 DOOR","Car",134,"3","SA","Semi-Automatic","6","F",3125,3.68,"35","California fuel 3-day exhaust","61","Tier 2 Cert Gasoline",36.8
+"107","Mini","MINI COOPER HARDTOP 4 DOOR","Car",134,"3","M","Manual","6","F",3000,3.42,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",37.4
+"108","Mini","Mini Cooper S (3-doors)","Car",189,"4","SA","Semi-Automatic","6","F",3125,3.5,"3","HWFE","61","Tier 2 Cert Gasoline",46.4
+"109","Mini","Mini Cooper S (3-doors)","Car",189,"4","M","Manual","6","F",3125,3.56,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",30.3
+"110","Mini","Mini Cooper S (5-doors)","Car",189,"4","SA","Semi-Automatic","6","F",3250,3.5,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",33.6
+"111","Mini","Mini Cooper S (5-doors)","Car",189,"4","M","Manual","6","F",3250,3.56,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",29.5
+"112","Mini","Mini Cooper S Clubman","Car",189,"4","SA","Semi-Automatic","8","F",3625,3.2,"3","HWFE","61","Tier 2 Cert Gasoline",47.3
+"113","Mini","Mini Cooper S Clubman","Car",189,"4","M","Manual","6","F",3500,3.6,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",28.3
+"114","Mini","Mini Cooper S Clubman ALL4","Car",189,"4","M","Manual","6","F",3750,4.1,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",26.2
+"115","Mini","Mini Cooper S Clubman ALL4","Car",189,"4","SA","Semi-Automatic","8","F",3750,3.2,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",29.4
+"116","Mini","Mini Cooper S Clubman ALL4","Car",189,"4","M","Manual","6","F",3875,4.1,"3","HWFE","61","Tier 2 Cert Gasoline",43.8
+"117","Mini","Mini Cooper S Convertible","Car",189,"4","SA","Semi-Automatic","6","F",3375,3.5,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",33.4
+"118","Mini","Mini Cooper S Convertible","Car",189,"4","M","Manual","6","F",3250,3.6,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",26.9
+"119","Mini","Mini Cooper S Countryman","Car",189,"4","SA","Semi-Automatic","8","F",3750,3.2,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",30.7
+"120","Mini","Mini Cooper S Countryman ALL4","Car",189,"4","SA","Semi-Automatic","8","F",4000,3.2,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",29.4
+"121","MINI","Mini Cooper SE Countryman ALL4","Car",134,"3","SA","Semi-Automatic","6","A",4250,3.94,"90","US06","61","Tier 2 Cert Gasoline",26.6
+"122","MINI","Mini Cooper SE Countryman ALL4","Car",134,"3","SA","Semi-Automatic","6","A",4250,3.94,"11","Cold CO","27","Cold CO Premium (Tier 2)",26.5
+"123","Mini","MINI JOHN COOPER WORKS CLUBMAN ALL4","Car",228,"4","SA","Semi-Automatic","8","F",3750,3.2,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",30
+"124","Mini","Mini John Cooper Works Clubman All4","Car",228,"4","M","Manual","6","F",3750,4.06,"3","HWFE","61","Tier 2 Cert Gasoline",44.2
+"125","Mini","MINI JOHN COOPER WORKS CONVERTIBLE","Car",228,"4","SA","Semi-Automatic","6","F",3375,3.5,"3","HWFE","61","Tier 2 Cert Gasoline",46.2
+"126","Mini","MINI JOHN COOPER WORKS CONVERTIBLE","Car",228,"4","M","Manual","6","F",3375,3.82,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",27.6
+"127","Mini","MINI John Cooper Works Hardtop","Car",228,"4","SA","Semi-Automatic","6","F",3125,3.5,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",32.7
+"128","Mini","MINI John Cooper Works Hardtop","Car",228,"4","M","Manual","6","F",3125,3.82,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",28.9
+"129","Fiat","Alfa 4c","Car",237,"4","AM","Automated Manual","6","R",2750,2.56,"11","Cold CO","26","Cold CO Regular (Tier 2)",27
+"130","Fiat","Alfa 4c","Car",237,"4","AM","Automated Manual","6","R",2750,2.56,"95","SC03","61","Tier 2 Cert Gasoline",28.8
+"131","Alfa Romeo","Giulia","Both",280,"4","A","Automatic","8","R",3875,3.15,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",30.4
+"132","Alfa Romeo","Giulia","Car",503,"6","A","Automatic","8","R",4250,3.09,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",23.3
+"133","Alfa Romeo","Giulia AWD","Both",280,"4","A","Automatic","8","R",4000,3.15,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",28.9
+"134","Alfa Romeo","Stelvio AWD","Both",280,"4","A","Automatic","8","R",4250,3.73,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",27.8
+"135","Chrysler","300 AWD","Car",292,"6","A","Automatic","8","4",4500,3.07,"31","Federal fuel 3-day exhaust","38","E85 (85% Ethanol 15% EPA Unleaded Gasoline)",16.8
+"136","Chrysler","Pacifica","Truck",287,"6","A","Automatic","9","F",4750,1.56,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",24.3
+"137","Chrysler","Pacifica","Truck",287,"6","A","Automatic","9","F",4750,1.56,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",23.9
+"138","Chrysler","Pacifica Hybrid","Truck",287,"6","CVT","Continuously Variable","1","F",5250,3.59,"11","Cold CO","26","Cold CO Regular (Tier 2)",22.7
+"139","Chrysler","Pacifica Hybrid","Truck",287,"6","CVT","Continuously Variable","1","F",5250,3.59,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",46.3
+"140","Chrysler","Town & Country","Both",283,"6","A","Automatic","6","F",4750,2.06,"21","Federal fuel 2-day exhaust (w/can load)","38","E85 (85% Ethanol 15% EPA Unleaded Gasoline)",15.1
+"141","Chrysler","Town & Country","Both",283,"6","A","Automatic","6","F",4750,2.06,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",21.4
+"142","Dodge","Avenger","Both",283,"6","A","Automatic","6","F",3875,2.06,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",20.6
+"143","Dodge","Challenger","Car",470,"8","M","Manual","6","R",4500,3.92,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",17.3
+"144","Dodge","Challenger","Car",470,"8","A","Automatic","8","R",4500,3.09,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",18.6
+"145","Dodge","Challenger","Car",372,"8","A","Automatic","8","R",4500,3.08,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",19.8
+"146","Dodge","Challenger","Car",370,"8","M","Manual","6","R",4500,3.92,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",18.7
+"147","Dodge","Challenger SRT8","Car",707,"8","M","Manual","6","R",4750,3.7,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",16
+"148","Dodge","Challenger SRT8","Car",707,"8","M","Manual","6","R",4750,3.7,"11","Cold CO","26","Cold CO Regular (Tier 2)",13.7
+"149","Dodge","Challenger SRT8","Car",707,"8","A","Automatic","8","R",4750,2.62,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",16.1
+"150","Dodge","Challenger SRT8","Car",707,"8","A","Automatic","8","R",4750,2.62,"95","SC03","61","Tier 2 Cert Gasoline",14.5
+"151","Dodge","Challenger SRT8","Car",707,"8","A","Automatic","8","R",4750,2.62,"11","Cold CO","26","Cold CO Regular (Tier 2)",14.4
+"152","Dodge","Charger","Car",292,"6","A","Automatic","8","R",4250,2.65,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",23.9
+"153","Dodge","Charger","Car",292,"6","A","Automatic","8","R",4250,2.65,"3","HWFE","38","E85 (85% Ethanol 15% EPA Unleaded Gasoline)",31.7
+"154","Dodge","Charger AWD","Car",292,"6","A","Automatic","8","A",4500,3.07,"3","HWFE","61","Tier 2 Cert Gasoline",38.1
+"155","Dodge","Durango AWD","Truck",360,"8","A","Automatic","8","R",5500,3.09,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",17.3
+"156","Dodge","Durango RWD","Truck",360,"8","A","Automatic","8","R",5500,3.09,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",17.4
+"157","Dodge","Durango SRT AWD","Truck",470,"8","A","Automatic","8","R",6000,3.7,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",15.7
+"158","Dodge","Journey","Both",283,"6","A","Automatic","6","F",4500,2.06,"21","Federal fuel 2-day exhaust (w/can load)","38","E85 (85% Ethanol 15% EPA Unleaded Gasoline)",15.3
+"160","Fiat","124 Spider","Both",160,"4","M","Manual","6","R",2750,3.45,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",34.1
+"161","Fiat","124 Spider","Both",160,"4","A","Automatic","6","R",2750,3.58,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",32.8
+"162","Fiat","500L","Both",160,"4","A","Automatic","6","F",3500,2.47,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",28.1
+"163","Jeep","Cherokee","Truck",184,"4","A","Automatic","9","A",4250,1.79,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",26.2
+"164","Jeep","Cherokee","Both",184,"4","A","Automatic","9","F",4250,1.79,"21","Federal fuel 2-day exhaust (w/can load)","38","E85 (85% Ethanol 15% EPA Unleaded Gasoline)",18.3
+"165","Jeep","Cherokee 4X4","Truck",184,"4","A","Automatic","9","F",4250,1.96,"3","HWFE","61","Tier 2 Cert Gasoline",35.2
+"166","Jeep","Cherokee 4X4","Both",184,"4","A","Automatic","9","A",4250,1.79,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",26.2
+"167","Jeep","Cherokee 4X4","Both",271,"6","A","Automatic","9","F",4250,1.56,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",25.6
+"168","Jeep","Cherokee 4x4 Active Drive II","Truck",271,"6","A","Automatic","9","F",4500,1.68,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",23.1
+"169","Jeep","Cherokee FWD","Both",184,"4","A","Automatic","9","F",4000,1.79,"3","HWFE","61","Tier 2 Cert Gasoline",43
+"170","Jeep","Cherokee FWD","Both",271,"6","A","Automatic","9","F",4000,1.56,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",26.1
+"171","Jeep","Cherokee FWD","Both",184,"4","A","Automatic","9","F",4000,1.79,"21","Federal fuel 2-day exhaust (w/can load)","38","E85 (85% Ethanol 15% EPA Unleaded Gasoline)",19.2
+"172","Jeep","Cherokee Trailhawk 4X4","Truck",271,"6","A","Automatic","9","F",4500,1.68,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",23
+"173","Jeep","Compass 4X2","Both",180,"4","M","Manual","6","F",3500,2.38,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",29
+"174","Jeep","Compass 4X2","Both",184,"4","A","Automatic","6","F",3625,2.35,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",28.3
+"175","Jeep","Compass 4X4","Both",184,"4","A","Automatic","9","F",3750,1.79,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",27.7
+"176","Jeep","Compass 4X4","Both",180,"4","M","Manual","6","F",3625,2.38,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",27.3
+"177","Jeep","Grand Cherokee 4X2","Truck",295,"6","A","Automatic","8","R",5000,3.45,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",23.8
+"178","Jeep","Grand Cherokee 4X4","Truck",295,"6","A","Automatic","8","4",5000,3.45,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",23.3
+"179","Jeep","Grand Cherokee SRT8","Truck",470,"8","A","Automatic","8","R",5500,3.7,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",15.7
+"180","Jeep","Grand Cherokee TrackHawk 4x4","Truck",707,"8","A","Automatic","8","4",6000,3.7,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",13.7
+"181","Jeep","Wrangler 4WD","Truck",290,"6","A","Automatic","5","4",4750,3.21,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",19.8
+"182","Jeep","Wrangler 4WD","Truck",290,"6","A","Automatic","5","4",4250,3.21,"3","HWFE","61","Tier 2 Cert Gasoline",29.3
+"183","Jeep","Wrangler 4WD","Car",290,"4","M","Manual","6","4",4750,3.21,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",19.5
+"184","Jeep","Wrangler 4WD","Truck",290,"6","M","Manual","6","4",4250,3.21,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",20.6
+"185","RAM","1500 2WD","Truck",390,"8","A","Automatic","8","R",5500,3.21,"3","HWFE","61","Tier 2 Cert Gasoline",29.6
+"186","RAM","1500 2WD","Truck",390,"8","A","Automatic","8","R",5000,3.21,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",18.6
+"187","RAM","1500 2WD","Truck",390,"8","A","Automatic","8","R",5500,3.21,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",17.6
+"188","RAM","1500 4X4","Truck",390,"8","A","Automatic","6","R",5500,3.55,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",15.4
+"189","RAM","Promaster City","Both",184,"4","A","Automatic","9","F",3750,1.79,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",26.6
+"190","Ferrari","488 GTB","Car",661,"8","AM","Automated Manual","7","R",4000,4.37,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",19.9
+"191","Ferrari","812 Superfast","Car",785,"12","AM","Automated Manual","7","R",4250,4.37,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",14.6
+"192","Ferrari","California T","Car",553,"8","AM","Automated Manual","7","R",4500,3.87,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",19.8
+"193","Ferrari","GTC4Lusso","Car",680,"12","AM","Automated Manual","7","R",4750,3.88,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",13.8
+"194","Ferrari","GTC4Lusso T","Car",602,"8","AM","Automated Manual","7","R",4750,3.88,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",17.6
+"195","Ford","1.0L EcoSport","Truck",125,"3","SA","Semi-Automatic","6","F",3375,3.44,"90","US06","61","Tier 2 Cert Gasoline",26.1
+"196","Ford","C-Max (HEV)","Car",141,"4","CVT","Continuously Variable","1","F",4000,2.57,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",58
+"197","Ford","EcoSport","Truck",160,"4","SA","Semi-Automatic","6","F",3750,3.51,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",29.7
+"198","Ford","Edge","Truck",245,"4","A","Automatic","6","F",4500,3.36,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",25.8
+"199","Ford","Edge","Truck",245,"4","A","Automatic","6","F",4250,3.21,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",26.3
+"200","Ford","Edge","Truck",280,"6","A","Automatic","6","F",4500,3.16,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",21.7
+"201","Ford","Edge","Truck",325,"6","A","Automatic","6","A",4750,3.16,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",21.6
+"202","Ford","Edge","Truck",280,"6","A","Automatic","6","F",4500,3.16,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",22
+"203","Ford","Edge","Truck",245,"4","A","Automatic","6","A",4500,3.36,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",24.8
+"204","Ford","Edge","Truck",280,"6","A","Automatic","6","A",4500,3.39,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",20.5
+"205","Ford","Escape","Truck",245,"4","SA","Semi-Automatic","6","F",4000,3.07,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",26
+"206","Ford","Escape","Truck",245,"4","SA","Semi-Automatic","6","F",4000,3.07,"3","HWFE","61","Tier 2 Cert Gasoline",42
+"207","Ford","Escape AWD","Truck",180,"4","SA","Semi-Automatic","6","F",4000,3.51,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",27.9
+"208","Ford","Escape FWD","Truck",168,"4","SA","Semi-Automatic","6","F",3875,3.51,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",26.9
+"209","Ford","Escape FWD","Truck",168,"4","SA","Semi-Automatic","6","F",3875,3.51,"21","Federal fuel 2-day exhaust (w/can load)","38","E85 (85% Ethanol 15% EPA Unleaded Gasoline)",19.6
+"210","Ford","Escape FWD","Truck",180,"4","SA","Semi-Automatic","6","F",3875,3.21,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",29.6
+"211","FORD","Explorer","Car",355,"6","SA","Semi-Automatic","6","F",5250,3.16,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",19.2
+"212","Ford","F-150","Truck",450,"6","SA","Semi-Automatic","10","R",6000,4.1,"3","HWFE","61","Tier 2 Cert Gasoline",24.5
+"213","Ford","F-150","Truck",375,"6","A","Automatic","10","R",5000,3.15,"3","HWFE","61","Tier 2 Cert Gasoline",34.6
+"214","Ford","F-150","Truck",375,"6","A","Automatic","10","R",4750,3.15,"3","HWFE","61","Tier 2 Cert Gasoline",35.1
+"215","Ford","F-150","Truck",375,"6","A","Automatic","10","R",5500,3.73,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",19.8
+"216","Ford","F-150 4X4 SUPER CREW CAB","Truck",400,"6","SA","Semi-Automatic","10","R",5250,3.55,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",23.5
+"217","Ford","F-150 Regular Cab","Truck",282,"6","SA","Semi-Automatic","6","R",4500,3.55,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",24.5
+"218","Ford","F-150 Regular Cab","Truck",282,"6","SA","Semi-Automatic","6","R",4500,3.55,"3","HWFE","38","E85 (85% Ethanol 15% EPA Unleaded Gasoline)",26.3
+"219","Ford","F-150 Super Cab","Truck",282,"6","SA","Semi-Automatic","6","R",5000,3.73,"3","HWFE","38","E85 (85% Ethanol 15% EPA Unleaded Gasoline)",24
+"220","Ford","F-150 SuperCab","Truck",282,"6","SA","Semi-Automatic","6","R",5000,3.73,"3","HWFE","61","Tier 2 Cert Gasoline",32.4
+"221","Ford","F150 Super Cab 4X2","Truck",400,"6","SA","Semi-Automatic","10","R",4750,3.55,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",24.9
+"222","Ford","F150 Super Cab 4X4","Truck",395,"8","SA","Semi-Automatic","10","R",5250,3.31,"3","HWFE","61","Tier 2 Cert Gasoline",31
+"223","Ford","F150 Super Cab 4x4","Truck",282,"6","SA","Semi-Automatic","6","R",5000,3.73,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",21
+"224","Ford","F150 Super Cab 4X4","Truck",395,"8","SA","Semi-Automatic","10","P",5250,3.31,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",20.2
+"225","Ford","F150 Super Cab 4X4","Truck",395,"8","SA","Semi-Automatic","10","P",5250,3.31,"21","Federal fuel 2-day exhaust (w/can load)","38","E85 (85% Ethanol 15% EPA Unleaded Gasoline)",15
+"226","Ford","F150 Super Cab 4X4","Truck",395,"8","SA","Semi-Automatic","10","R",5000,3.15,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",21.1
+"227","Ford","F150 Super Cab 4X4","Truck",395,"8","SA","Semi-Automatic","10","R",5000,3.15,"3","HWFE","38","E85 (85% Ethanol 15% EPA Unleaded Gasoline)",22.6
+"228","Ford","F150 Super Crew Cab 4X2","Truck",400,"6","SA","Semi-Automatic","10","R",5000,3.55,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",24.7
+"229","Ford","FLEX","Car",355,"6","SA","Semi-Automatic","6","A",5250,3.16,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",19.7
+"230","Ford","FLEX","Car",285,"6","SA","Semi-Automatic","6","F",5000,3.39,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",22
+"231","Ford","FOCUS","Car",160,"4","M","Manual","5","F",3250,3.82,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",31.9
+"232","Ford","FOCUS","Car",160,"4","AM","Automated Manual","6","F",3375,3.85,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",30.8
+"233","Ford","FOCUS","Car",160,"4","AM","Automated Manual","6","F",3375,3.85,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",34.4
+"234","Ford","Focus","Car",123,"3","M","Manual","6","F",3250,4.06,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",39.5
+"235","Ford","Focus","Car",123,"3","SA","Semi-Automatic","6","F",3250,3.44,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",36.1
+"236","Ford","Focus RS","Car",350,"4","M","Manual","6","F",3750,4.06,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",24.8
+"237","Ford","FOCUS ST","Car",247,"4","M","Manual","6","F",3500,4.06,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",28.8
+"238","Ford","Fusion","Car",169,"4","SA","Semi-Automatic","6","F",3750,3.07,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",30.2
+"239","Ford","Fusion","Car",240,"4","SA","Semi-Automatic","6","F",4000,3.36,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",25.3
+"240","Ford","Fusion","Car",169,"4","SA","Semi-Automatic","6","F",3750,3.07,"3","HWFE","61","Tier 2 Cert Gasoline",48
+"241","Ford","Fusion","Car",240,"4","SA","Semi-Automatic","6","F",3875,3.21,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",26.6
+"242","Ford","Fusion","Car",325,"6","A","Automatic","6","F",4500,3.16,"3","HWFE","61","Tier 2 Cert Gasoline",36.9
+"243","Ford","Fusion (HEV)","Car",141,"4","CVT","Continuously Variable","1","F",4000,2.57,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",62.4
+"244","Ford","Fusion (HEV)","Car",141,"4","CVT","Continuously Variable","1","F",4250,2.57,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",55.4
+"245","Ford","Fusion (PHEV)","Car",141,"4","CVT","Continuously Variable","1","F",4250,2.91,"3","HWFE","61","Tier 2 Cert Gasoline",61.3
+"246","Ford","Fusion FWD","Car",169,"4","SA","Semi-Automatic","6","F",3750,3.07,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",29.3
+"247","Ford","FUSION FWD","Car",173,"4","A","Automatic","6","F",3750,3.07,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",26.5
+"248","Ford","FUSION FWD","Car",173,"4","A","Automatic","6","F",3750,3.07,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",26.8
+"249","Ford","MKZ","Car",240,"4","SA","Semi-Automatic","6","F",4250,3.36,"3","HWFE","61","Tier 2 Cert Gasoline",39.1
+"250","Ford","MKZ","Car",393,"6","A","Automatic","6","F",4500,2.77,"3","HWFE","61","Tier 2 Cert Gasoline",38.5
+"251","Ford","MKZ","Car",393,"6","A","Automatic","6","F",4500,3.16,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",21
+"252","Ford","T150 Transit Wagon MDPV","Truck",365,"6","SA","Semi-Automatic","6","R",6000,3.31,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",18
+"253","Ford","T250 Transit Van MDPV","Truck",315,"6","SA","Semi-Automatic","6","R",6000,3.31,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",17.7
+"254","Ford","TRANSIT CONNECT VAN FFV","Truck",169,"4","SA","Semi-Automatic","6","F",3875,3.21,"3","HWFE","61","Tier 2 Cert Gasoline",38.4
+"255","Ford","TRANSIT CONNECT VAN FFV","Truck",169,"4","SA","Semi-Automatic","6","F",3875,3.21,"21","Federal fuel 2-day exhaust (w/can load)","38","E85 (85% Ethanol 15% EPA Unleaded Gasoline)",18.3
+"256","Ford","TRANSIT CONNECT VAN FFV","Truck",169,"4","SA","Semi-Automatic","6","F",3750,3.21,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",25.5
+"257","Ford","TRANSIT CONNECT VAN FFV","Truck",169,"4","SA","Semi-Automatic","6","F",3750,3.21,"3","HWFE","38","E85 (85% Ethanol 15% EPA Unleaded Gasoline)",28.4
+"258","Ford","TRANSIT CONNECT WAGON LWB FFV","Truck",169,"4","SA","Semi-Automatic","6","F",4250,3.21,"3","HWFE","38","E85 (85% Ethanol 15% EPA Unleaded Gasoline)",27.5
+"259","Ford","TRANSIT CONNECT WAGON LWB FFV","Truck",169,"4","SA","Semi-Automatic","6","F",4250,3.21,"3","HWFE","61","Tier 2 Cert Gasoline",37.6
+"260","Ford","TRANSIT T150 WAGON FFV","Truck",275,"6","SA","Semi-Automatic","6","R",6000,3.73,"21","Federal fuel 2-day exhaust (w/can load)","38","E85 (85% Ethanol 15% EPA Unleaded Gasoline)",12.7
+"261","Ford","TRANSIT T150 WAGON FFV","Truck",275,"6","SA","Semi-Automatic","6","R",6000,3.73,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",17.2
+"262","Lincoln","Continental","Car",325,"6","A","Automatic","6","F",4750,2.77,"3","HWFE","61","Tier 2 Cert Gasoline",38.7
+"263","Lincoln","Continental","Car",305,"6","A","Automatic","6","A",4750,3.39,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",20.5
+"264","Lincoln","Continental","Car",325,"6","A","Automatic","6","F",5000,3.16,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",21
+"265","Lincoln","Continental","Car",393,"6","A","Automatic","6","F",5000,3.39,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",20.3
+"266","Lincoln","Continental","Car",305,"6","A","Automatic","6","F",4750,3.16,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",21.3
+"267","Lincoln","Continental","Car",325,"6","A","Automatic","6","F",5000,3.16,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",20.8
+"268","Lincoln","Continental","Car",393,"6","A","Automatic","6","F",5000,3.39,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",19.5
+"269","Lincoln","Continental","Car",305,"6","A","Automatic","6","A",4750,3.39,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",20
+"270","Lincoln","MKC","Truck",245,"4","SA","Semi-Automatic","6","F",4250,3.51,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",24.1
+"271","Lincoln","MKC","Truck",275,"4","SA","Semi-Automatic","6","F",4250,3.51,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",22.4
+"272","Lincoln","MKC","Truck",245,"4","SA","Semi-Automatic","6","F",4250,3.51,"3","HWFE","61","Tier 2 Cert Gasoline",35.5
+"273","Lincoln","MKT","Car",270,"6","SA","Semi-Automatic","6","A",5250,3.16,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",20.8
+"274","Lincoln","MKX AWD","Truck",325,"6","A","Automatic","6","F",5000,3.39,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",21
+"275","Lincoln","MKX AWD","Truck",303,"6","SA","Semi-Automatic","6","A",4750,3.65,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",20.4
+"276","Lincoln","MKX FWD","Truck",303,"6","A","Automatic","6","F",4500,3.39,"3","HWFE","61","Tier 2 Cert Gasoline",35.8
+"277","BUICK","CASCADA","Car",200,"4","SA","Semi-Automatic","6","F",4250,3.53,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",22.9
+"278","BUICK","ENCORE","Car",148,"4","SA","Semi-Automatic","6","F",3500,3.53,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",36.3
+"279","BUICK","ENCORE AWD","Car",148,"4","SA","Semi-Automatic","6","F",3625,3.53,"3","HWFE","61","Tier 2 Cert Gasoline",42.2
+"280","BUICK","ENCORE AWD","Car",148,"4","SA","Semi-Automatic","6","F",3625,3.53,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",34
+"281","BUICK","ENCORE AWD","Car",138,"4","SA","Semi-Automatic","6","F",3625,3.53,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",29.3
+"282","BUICK","ENVISION AWD","Truck",252,"4","A","Automatic","6","F",4500,3.17,"90","US06","61","Tier 2 Cert Gasoline",23.8
+"283","BUICK","ENVISION AWD","Truck",197,"4","A","Automatic","6","F",4250,3.5,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",27
+"284","BUICK","ENVISION FWD","Truck",193,"4","A","Automatic","6","F",4000,3.5,"3","HWFE","61","Tier 2 Cert Gasoline",41.1
+"285","BUICK","LACROSSE","Car",193,"4","A","Automatic","6","F",3875,2.64,"90","US06","61","Tier 2 Cert Gasoline",30.8
+"286","BUICK","LACROSSE","Car",310,"6","SA","Semi-Automatic","9","F",4000,2.89,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",26.5
+"287","BUICK","LACROSSE AWD","Car",310,"6","SA","Semi-Automatic","9","F",4250,2.89,"3","HWFE","61","Tier 2 Cert Gasoline",42
+"288","BUICK","REGAL","Car",260,"4","SA","Semi-Automatic","9","F",3875,2.89,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",27.9
+"289","BUICK","REGAL","Car",260,"4","SA","Semi-Automatic","9","F",3750,2.89,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",29.7
+"290","BUICK","REGAL AWD","Car",260,"4","SA","Semi-Automatic","8","F",4000,3.08,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",27.2
+"291","BUICK","REGAL TOURX  AWD","Car",260,"4","SA","Semi-Automatic","8","F",4250,3.08,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",27
+"292","CADILLAC","ATS","Car",272,"4","SA","Semi-Automatic","8","R",3750,2.85,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",28.6
+"293","CADILLAC","ATS","Car",272,"4","M","Manual","6","R",3750,3.27,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",24.8
+"294","CADILLAC","ATS","Car",272,"4","M","Manual","6","R",3875,3.27,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",24.4
+"295","CADILLAC","ATS AWD","Car",272,"4","SA","Semi-Automatic","8","R",3875,3.27,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",27.7
+"296","CADILLAC","ATS-V","Car",455,"6","SA","Semi-Automatic","8","R",4000,2.85,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",21.1
+"297","CADILLAC","ATS-V","Car",455,"6","M","Manual","6","R",4000,3.73,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",20.3
+"298","CADILLAC","CT6","Car",272,"4","SA","Semi-Automatic","8","R",4000,3.27,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",28
+"299","CADILLAC","CT6","Both",335,"6","SA","Semi-Automatic","8","R",4500,3.27,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",22.6
+"300","CADILLAC","CT6 AWD","Car",400,"6","SA","Semi-Automatic","8","R",4500,3.27,"3","HWFE","61","Tier 2 Cert Gasoline",36.5
+"301","CADILLAC","CT6 AWD","Car",335,"6","SA","Semi-Automatic","8","R",4500,3.27,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",21.8
+"302","CADILLAC","CTS","Car",272,"4","SA","Semi-Automatic","8","R",4000,2.85,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",27.7
+"303","CADILLAC","CTS SEDAN","Car",272,"4","SA","Semi-Automatic","8","R",4000,2.85,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",27.1
+"304","CADILLAC","CTS SEDAN AWD","Both",335,"6","SA","Semi-Automatic","8","R",4250,3.27,"3","HWFE","61","Tier 2 Cert Gasoline",39
+"305","CADILLAC","CTS-V","Car",650,"8","SA","Semi-Automatic","5","R",4500,2.85,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",17.5
+"306","CADILLAC","ESCALADE 2WD","Truck",425,"8","A","Automatic","8","R",6000,3.23,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",18.2
+"307","CADILLAC","ESCALADE 2WD","Truck",420,"8","A","Automatic","10","R",6000,3.23,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",17.7
+"308","CADILLAC","ESCALADE 4WD","Truck",420,"8","A","Automatic","10","R",6500,3.23,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",16.9
+"309","CADILLAC","ESCALADE 4WD","Truck",420,"8","A","Automatic","10","R",6000,3.23,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",17.7
+"310","CADILLAC","XT5","Truck",310,"6","SA","Semi-Automatic","8","F",4250,3.2,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",24.6
+"311","CADILLAC","XT5 AWD","Truck",310,"6","SA","Semi-Automatic","8","F",4750,3.2,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",23
+"312","CADILLAC","XTS","Car",305,"6","SA","Semi-Automatic","6","F",4500,2.77,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",22.8
+"313","CADILLAC","XTS AWD","Car",410,"6","SA","Semi-Automatic","6","F",4750,3.16,"3","HWFE","61","Tier 2 Cert Gasoline",32.2
+"314","CADILLAC","XTS AWD","Car",305,"6","SA","Semi-Automatic","6","F",4500,2.77,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",22.6
+"315","CADILLAC","XTS HEARSE","Car",303,"6","SA","Semi-Automatic","6","F",6000,3.16,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",18.1
+"316","CHEVROLET","C15 SILVERADO 2WD","Truck",345,"8","A","Automatic","8","R",5500,3.08,"3","HWFE","61","Tier 2 Cert Gasoline",33.3
+"317","CHEVROLET","C15 SILVERADO 2WD","Truck",425,"8","A","Automatic","8","R",5500,3.23,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",18.5
+"318","CHEVROLET","C1500 SUBURBAN 2WD","Truck",345,"8","A","Automatic","6","R",6000,3.42,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",20.1
+"319","CHEVROLET","C1500 SUBURBAN 2WD","Truck",345,"8","A","Automatic","6","R",6000,3.42,"31","Federal fuel 3-day exhaust","38","E85 (85% Ethanol 15% EPA Unleaded Gasoline)",14.8
+"320","CHEVROLET","CAMARO","Car",272,"4","SA","Semi-Automatic","8","R",3875,3.27,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",27.7
+"321","CHEVROLET","CAMARO","Car",272,"4","SA","Semi-Automatic","8","R",3625,3.27,"3","HWFE","61","Tier 2 Cert Gasoline",44.6
+"322","CHEVROLET","CAMARO","Car",272,"4","M","Manual","6","R",4000,3.27,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",25.1
+"323","CHEVROLET","CAMARO","Car",272,"4","M","Manual","6","R",3625,3.27,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",25
+"324","CHEVROLET","CAMARO","Car",335,"6","SA","Semi-Automatic","8","R",4000,2.77,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",23.2
+"325","CHEVROLET","CAMARO","Car",335,"6","SA","Semi-Automatic","8","R",3750,2.77,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",24.2
+"326","CHEVROLET","CAMARO","Both",335,"6","M","Manual","6","R",4000,3.27,"3","HWFE","61","Tier 2 Cert Gasoline",35.1
+"327","CHEVROLET","CAMARO","Both",335,"6","M","Manual","6","R",3750,3.27,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",20.6
+"328","CHEVROLET","CAMARO","Car",455,"8","M","Manual","6","R",4000,3.73,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",20.5
+"329","CHEVROLET","CAMARO","Car",455,"8","SA","Semi-Automatic","8","R",4000,2.77,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",20.6
+"330","CHEVROLET","CAMARO","Car",650,"8","SA","Semi-Automatic","10","R",4500,2.77,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",15.3
+"331","CHEVROLET","CAMARO","Car",650,"8","SA","Semi-Automatic","10","R",4250,2.85,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",15.3
+"332","CHEVROLET","CAMARO","Car",650,"8","M","Manual","6","R",4500,3.73,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",16.3
+"333","CHEVROLET","CAMARO","Car",650,"8","M","Manual","6","R",4250,3.73,"3","HWFE","61","Tier 2 Cert Gasoline",27.2
+"334","CHEVROLET","COLORADO 2WD","Truck",194,"4","M","Manual","6","R",4250,4.1,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",24.9
+"335","CHEVROLET","COLORADO 2WD","Truck",194,"4","A","Automatic","6","R",4250,4.1,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",24.6
+"336","CHEVROLET","COLORADO 2WD","Truck",308,"6","A","Automatic","8","R",4500,3.42,"3","HWFE","61","Tier 2 Cert Gasoline",34.5
+"337","CHEVROLET","COLORADO 4WD","Truck",194,"4","A","Automatic","6","R",4500,4.1,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",23
+"338","CHEVROLET","COLORADO 4WD","Truck",308,"6","A","Automatic","8","R",4750,3.42,"3","HWFE","61","Tier 2 Cert Gasoline",32.9
+"339","CHEVROLET","COLORADO ZR2 4WD","Truck",181,"4","A","Automatic","6","R",5250,3.42,"11","Cold CO","19","Federal Cert Diesel 7-15 PPM Sulfur",20.5
+"340","CHEVROLET","COLORADO ZR2 4WD","Truck",308,"6","A","Automatic","8","R",5000,3.42,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",19.5
+"341","CHEVROLET","CORVETTE","Car",450,"8","M","Manual","7","R",3625,3.42,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",20.9
+"342","CHEVROLET","CORVETTE","Car",455,"8","SA","Semi-Automatic","8","R",3625,2.41,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",19.8
+"343","CHEVROLET","CORVETTE","Car",650,"8","M","Manual","7","R",3875,3.42,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",18.3
+"344","CHEVROLET","CORVETTE","Car",650,"8","SA","Semi-Automatic","8","R",3875,2.41,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",16.4
+"345","CHEVROLET","CORVETTE","Car",455,"8","SA","Semi-Automatic","8","R",3875,2.73,"3","HWFE","61","Tier 2 Cert Gasoline",33.3
+"346","CHEVROLET","CORVETTE","Car",455,"8","M","Manual","7","R",3750,3.42,"3","HWFE","61","Tier 2 Cert Gasoline",31.7
+"347","CHEVROLET","CORVETTE","Car",455,"8","M","Manual","7","R",3875,3.42,"3","HWFE","61","Tier 2 Cert Gasoline",31.7
+"348","CHEVROLET","CRUZE","Car",148,"4","M","Manual","6","F",3125,3.65,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",35.5
+"349","CHEVROLET","CRUZE","Car",148,"4","SA","Semi-Automatic","6","F",3125,3.14,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",39.1
+"350","CHEVROLET","CRUZE","Car",136,"4","M","Manual","6","F",3375,3.65,"2","CVS 75 and later (w/o can. load)","19","Federal Cert Diesel 7-15 PPM Sulfur",40
+"351","CHEVROLET","CRUZE","Car",136,"4","A","Automatic","9","F",3500,3.17,"11","Cold CO","19","Federal Cert Diesel 7-15 PPM Sulfur",31.6
+"352","CHEVROLET","EQUINOX","Truck",170,"4","A","Automatic","6","F",3625,3.5,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",33.3
+"353","CHEVROLET","EQUINOX AWD","Truck",170,"4","A","Automatic","6","F",3750,3.87,"3","HWFE","61","Tier 2 Cert Gasoline",43
+"354","CHEVROLET","EQUINOX AWD","Truck",170,"4","A","Automatic","6","F",3875,3.87,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",31.2
+"355","CHEVROLET","EQUINOX AWD","Both",136,"4","A","Automatic","6","F",4000,2.89,"3","HWFE","19","Federal Cert Diesel 7-15 PPM Sulfur",56.5
+"356","CHEVROLET","EQUINOX AWD","Truck",252,"4","A","Automatic","9","F",4000,3.17,"90","US06","61","Tier 2 Cert Gasoline",26
+"357","CHEVROLET","EQUINOX FWD","Both",136,"4","A","Automatic","6","F",3875,2.89,"2","CVS 75 and later (w/o can. load)","19","Federal Cert Diesel 7-15 PPM Sulfur",35.9
+"358","CHEVROLET","EQUINOX FWD","Truck",252,"4","A","Automatic","9","F",3875,3.17,"90","US06","61","Tier 2 Cert Gasoline",27.5
+"359","CHEVROLET","IMPALA","Car",196,"4","SA","Semi-Automatic","6","F",4000,3.23,"90","US06","61","Tier 2 Cert Gasoline",26.6
+"360","CHEVROLET","IMPALA","Car",305,"6","SA","Semi-Automatic","6","F",4000,2.77,"3","HWFE","61","Tier 2 Cert Gasoline",39.4
+"361","CHEVROLET","IMPALA","Car",305,"6","SA","Semi-Automatic","6","F",4000,2.77,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",23.2
+"362","CHEVROLET","IMPALA","Car",305,"6","SA","Semi-Automatic","6","F",4000,2.77,"31","Federal fuel 3-day exhaust","38","E85 (85% Ethanol 15% EPA Unleaded Gasoline)",17.2
+"363","CHEVROLET","K15 SILVERADO 4WD","Truck",285,"6","A","Automatic","6","R",5500,3.42,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",20.7
+"364","CHEVROLET","K15 SILVERADO 4WD","Truck",285,"6","A","Automatic","6","R",5500,3.42,"31","Federal fuel 3-day exhaust","38","E85 (85% Ethanol 15% EPA Unleaded Gasoline)",14.4
+"365","CHEVROLET","K15 SILVERADO 4WD","Truck",285,"6","A","Automatic","6","R",6000,3.42,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",18.5
+"366","CHEVROLET","K15 SILVERADO 4WD","Truck",285,"6","A","Automatic","6","R",6000,3.42,"31","Federal fuel 3-day exhaust","38","E85 (85% Ethanol 15% EPA Unleaded Gasoline)",13.5
+"367","CHEVROLET","K15 SILVERADO 4WD","Truck",345,"8","A","Automatic","8","R",6000,3.42,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",20.3
+"368","CHEVROLET","K15 SILVERADO 4WD","Truck",345,"8","A","Automatic","6","R",5250,3.42,"3","HWFE","61","Tier 2 Cert Gasoline",31.1
+"369","CHEVROLET","K15 SILVERADO 4WD","Truck",345,"8","A","Automatic","6","R",5250,3.42,"31","Federal fuel 3-day exhaust","38","E85 (85% Ethanol 15% EPA Unleaded Gasoline)",14.2
+"370","CHEVROLET","K1500 SUBURBAN 4WD","Truck",345,"8","A","Automatic","6","R",6500,3.42,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",17
+"371","CHEVROLET","K1500 SUBURBAN 4WD","Truck",345,"8","A","Automatic","6","R",6500,3.42,"31","Federal fuel 3-day exhaust","38","E85 (85% Ethanol 15% EPA Unleaded Gasoline)",13.1
+"372","CHEVROLET","K1500 SUBURBAN 4WD","Truck",345,"8","A","Automatic","6","R",6500,3.42,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",18.7
+"373","CHEVROLET","K1500 TAHOE 4WD","Truck",345,"8","A","Automatic","6","R",6000,3.42,"3","HWFE","61","Tier 2 Cert Gasoline",30.3
+"374","CHEVROLET","K1500 TAHOE 4WD","Truck",345,"8","A","Automatic","6","R",6000,3.42,"31","Federal fuel 3-day exhaust","38","E85 (85% Ethanol 15% EPA Unleaded Gasoline)",14
+"375","CHEVROLET","MALIBU","Car",160,"4","A","Automatic","6","F",3375,3.23,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",35
+"376","CHEVROLET","MALIBU","Car",122,"4","CVT","Continuously Variable","1","F",3625,2.64,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",68.3
+"377","CHEVROLET","MALIBU","Car",122,"4","CVT","Continuously Variable","1","F",3625,2.64,"11","Cold CO","26","Cold CO Regular (Tier 2)",45
+"378","CHEVROLET","MALIBU","Car",260,"4","A","Automatic","9","F",3625,2.89,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",28.6
+"379","CHEVROLET","SONIC","Car",138,"4","SA","Semi-Automatic","6","F",3125,3.23,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",34.7
+"380","CHEVROLET","SONIC","Car",138,"4","M","Manual","6","F",3125,3.65,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",36.7
+"381","CHEVROLET","SONIC","Car",138,"4","SA","Semi-Automatic","6","F",3125,3.47,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",32.8
+"382","CHEVROLET","SONIC","Car",138,"4","M","Manual","5","F",3125,3.94,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",33.1
+"383","CHEVROLET","SONIC 5","Car",138,"4","SA","Semi-Automatic","6","F",3125,3.47,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",31.5
+"384","CHEVROLET","SPARK","Car",84,"4","CVT","Continuously Variable","1","F",2625,3.76,"90","US06","61","Tier 2 Cert Gasoline",34.6
+"385","CHEVROLET","SPARK","Car",84,"4","M","Manual","5","F",2500,3.91,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",38.9
+"386","CHEVROLET","TRAVERSE","Truck",262,"4","A","Automatic","9","F",4750,3.49,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",25.5
+"387","CHEVROLET","TRAVERSE","Truck",305,"6","SA","Semi-Automatic","9","F",4500,3.49,"3","HWFE","61","Tier 2 Cert Gasoline",38.4
+"388","CHEVROLET","TRAVERSE AWD","Truck",305,"6","SA","Semi-Automatic","9","F",5000,3.49,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",21.3
+"389","CHEVROLET","TRAVERSE AWD","Truck",305,"6","SA","Semi-Automatic","9","F",4750,3.49,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",22.1
+"390","CHEVROLET","TRAX","Car",138,"4","SA","Semi-Automatic","6","F",3375,3.53,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",32.9
+"391","CHEVROLET","TRAX","Car",138,"4","SA","Semi-Automatic","6","F",3625,3.53,"3","HWFE","61","Tier 2 Cert Gasoline",43.7
+"392","CHEVROLET","VOLT","Car",100,"4","CVT","Continuously Variable","1","F",3875,2.64,"3","HWFE","61","Tier 2 Cert Gasoline",61.2
+"393","CHEVROLET","VOLT","Car",100,"4","CVT","Continuously Variable","1","F",3875,2.64,"11","Cold CO","26","Cold CO Regular (Tier 2)",38.5
+"394","GMC","ACADIA AWD","Truck",193,"4","A","Automatic","6","F",4500,3.87,"90","US06","61","Tier 2 Cert Gasoline",22.4
+"395","GMC","ACADIA AWD","Truck",310,"6","A","Automatic","6","F",4750,3.16,"3","HWFE","61","Tier 2 Cert Gasoline",34.8
+"396","GMC","ACADIA FWD","Truck",310,"6","A","Automatic","6","F",4500,3.16,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",22.4
+"397","GMC","CANYON 2WD","Truck",181,"4","A","Automatic","6","R",4750,3.42,"2","CVS 75 and later (w/o can. load)","19","Federal Cert Diesel 7-15 PPM Sulfur",27.6
+"398","GMC","CANYON 4WD","Truck",181,"4","A","Automatic","6","R",5000,3.42,"2","CVS 75 and later (w/o can. load)","19","Federal Cert Diesel 7-15 PPM Sulfur",25
+"399","GMC","CANYON 4WD","Truck",181,"4","A","Automatic","6","R",5250,3.42,"2","CVS 75 and later (w/o can. load)","19","Federal Cert Diesel 7-15 PPM Sulfur",24.4
+"400","GMC","CANYON CAB CHASSIS 2WD","Truck",308,"6","A","Automatic","8","R",5250,3.42,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",18.4
+"401","GMC","K15 SIERRA 4WD","Truck",345,"8","A","Automatic","8","R",6000,3.42,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",18.7
+"402","GMC","K15 SIERRA 4WD","Truck",345,"8","A","Automatic","8","R",6000,3.42,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",19.5
+"403","GMC","K15 SIERRA 4WD","Truck",345,"8","A","Automatic","6","R",5250,3.42,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",19.4
+"404","GMC","K1500 YUKON XL 4WD","Truck",345,"8","A","Automatic","6","R",6500,3.42,"31","Federal fuel 3-day exhaust","38","E85 (85% Ethanol 15% EPA Unleaded Gasoline)",11.7
+"405","GMC","K1500 YUKON XL 4WD","Truck",425,"8","A","Automatic","8","R",6500,3.23,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",18.4
+"406","GMC","TERRAIN AWD","Truck",170,"4","A","Automatic","6","F",4000,3.47,"90","US06","61","Tier 2 Cert Gasoline",25.6
+"407","GMC","TERRAIN FWD","Truck",170,"4","A","Automatic","9","F",3750,3.47,"3","HWFE","61","Tier 2 Cert Gasoline",44.2
+"408","GMC","TERRAIN FWD","Truck",170,"4","A","Automatic","9","F",3875,3.47,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",32
+"409","ACURA","ILX","Car",202,"4","AMS","Automated Manual- Selectable (e.g. Automated Manual with paddles)","8","F",3375,3.94,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",32.5
+"410","ACURA","RDX 2WD","Truck",279,"6","SA","Semi-Automatic","6","F",4000,4.25,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",24.9
+"411","ACURA","RDX 4WD","Truck",279,"6","SA","Semi-Automatic","6","F",4250,4.25,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",23.8
+"412","ACURA","TLX","Car",206,"4","AMS","Automated Manual- Selectable (e.g. Automated Manual with paddles)","8","F",3875,4.57,"3","HWFE","61","Tier 2 Cert Gasoline",47.9
+"413","HONDA","CIVIC 2.0L","Car",158,"4","M","Manual","6","F",3000,4.1,"90","US06","61","Tier 2 Cert Gasoline",37
+"414","HONDA","CIVIC 2.0L","Car",158,"4","M","Manual","6","F",3000,4.1,"11","Cold CO","26","Cold CO Regular (Tier 2)",31.3
+"415","HONDA","CIVIC 2.0L","Car",158,"4","CVT","Continuously Variable","1","F",3125,4.68,"95","SC03","61","Tier 2 Cert Gasoline",28
+"416","HONDA","CIVIC 2.0L","Car",158,"4","CVT","Continuously Variable","1","F",3125,4.68,"11","Cold CO","26","Cold CO Regular (Tier 2)",33.6
+"417","HONDA","CIVIC 2.0L","Car",158,"4","CVT","Continuously Variable","1","F",3000,4.68,"95","SC03","61","Tier 2 Cert Gasoline",29.6
+"418","HONDA","CIVIC 2.0L","Car",158,"4","CVT","Continuously Variable","1","F",3000,4.68,"11","Cold CO","26","Cold CO Regular (Tier 2)",34.1
+"419","HONDA","CIVIC 2.0L","Car",158,"4","CVT","Continuously Variable","1","F",3125,4.68,"90","US06","61","Tier 2 Cert Gasoline",35.1
+"420","HONDA","CIVIC 2.0L","Car",158,"4","CVT","Continuously Variable","1","F",3125,4.68,"11","Cold CO","26","Cold CO Regular (Tier 2)",33.4
+"421","HONDA","CIVIC 2.0L","Car",158,"4","CVT","Continuously Variable","1","F",3000,4.68,"95","SC03","61","Tier 2 Cert Gasoline",28.9
+"422","HONDA","CIVIC 2.0L","Car",158,"4","CVT","Continuously Variable","1","F",3000,4.68,"11","Cold CO","26","Cold CO Regular (Tier 2)",34.5
+"423","HONDA","CIVIC 2DR COUPE 1.5L","Car",174,"4","M","Manual","6","F",3125,4.1,"90","US06","61","Tier 2 Cert Gasoline",37.7
+"424","HONDA","CIVIC 2DR COUPE 1.5L","Car",174,"4","M","Manual","6","F",3125,4.1,"11","Cold CO","26","Cold CO Regular (Tier 2)",34.9
+"425","HONDA","CIVIC 2DR COUPE 1.5L","Car",174,"4","CVT","Continuously Variable","1","F",3250,4.81,"90","US06","61","Tier 2 Cert Gasoline",36.8
+"426","HONDA","CIVIC 2DR COUPE 1.5L","Car",174,"4","CVT","Continuously Variable","1","F",3250,4.81,"11","Cold CO","26","Cold CO Regular (Tier 2)",34.9
+"427","HONDA","CIVIC 2DR COUPE 1.5L","Car",174,"4","CVT","Continuously Variable","1","F",3250,4.81,"11","Cold CO","26","Cold CO Regular (Tier 2)",34.6
+"428","HONDA","CIVIC 2DR COUPE 1.5L","Car",174,"4","CVT","Continuously Variable","1","F",3250,4.81,"90","US06","61","Tier 2 Cert Gasoline",36.8
+"429","HONDA","CIVIC 4DR SEDAN 1.5L","Car",174,"4","M","Manual","6","F",3125,4.1,"90","US06","61","Tier 2 Cert Gasoline",39.1
+"430","HONDA","CIVIC 4DR SEDAN 1.5L","Car",174,"4","M","Manual","6","F",3125,4.1,"11","Cold CO","26","Cold CO Regular (Tier 2)",34.7
+"431","HONDA","CIVIC 4DR SEDAN 1.5L","Car",174,"4","CVT","Continuously Variable","1","F",3250,4.81,"90","US06","61","Tier 2 Cert Gasoline",38.7
+"432","HONDA","CIVIC 4DR SEDAN 1.5L","Car",174,"4","CVT","Continuously Variable","1","F",3250,4.81,"11","Cold CO","26","Cold CO Regular (Tier 2)",35.6
+"433","HONDA","CIVIC 4DR SEDAN 1.5L","Car",174,"4","CVT","Continuously Variable","1","F",3250,4.81,"90","US06","61","Tier 2 Cert Gasoline",37.9
+"434","HONDA","CIVIC 4DR SEDAN 1.5L","Car",174,"4","CVT","Continuously Variable","1","F",3250,4.81,"11","Cold CO","26","Cold CO Regular (Tier 2)",34.7
+"435","HONDA","CIVIC 4DR SEDAN 2.0L","Car",153,"4","CVT","Continuously Variable","1","F",3125,4.68,"90","US06","61","Tier 2 Cert Gasoline",36
+"436","HONDA","CIVIC 4DR SEDAN 2.0L","Car",153,"4","CVT","Continuously Variable","1","F",3125,4.68,"11","Cold CO","26","Cold CO Regular (Tier 2)",33.4
+"437","HONDA","CIVIC 4DR SEDAN 2.0L","Car",153,"4","CVT","Continuously Variable","1","F",3000,4.68,"90","US06","61","Tier 2 Cert Gasoline",36.9
+"438","HONDA","CIVIC 5DR","Car",180,"4","M","Manual","6","F",3125,4.1,"90","US06","61","Tier 2 Cert Gasoline",35.6
+"439","HONDA","CIVIC 5DR","Car",180,"4","M","Manual","6","F",3125,4.1,"11","Cold CO","26","Cold CO Regular (Tier 2)",32.9
+"440","HONDA","CIVIC 5DR","Car",174,"4","CVT","Continuously Variable","1","F",3250,4.81,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",40.6
+"441","HONDA","CIVIC 5DR","Car",180,"4","SCV","Selectable Continuously Variable (e.g. CVT with paddles)","7","F",3250,4.81,"90","US06","61","Tier 2 Cert Gasoline",33.4
+"442","HONDA","CIVIC 5DR","Car",180,"4","SCV","Selectable Continuously Variable (e.g. CVT with paddles)","7","F",3250,4.81,"11","Cold CO","26","Cold CO Regular (Tier 2)",32.6
+"443","HONDA","CIVIC 5DR Type-R","Car",306,"4","M","Manual","6","F",3375,4.11,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",27
+"444","HONDA","CIVIC 5DR Type-R","Car",306,"4","M","Manual","6","F",3375,4.11,"11","Cold CO","26","Cold CO Regular (Tier 2)",24.8
+"445","HONDA","CIVIC Si","Car",205,"4","M","Manual","6","F",3250,4.11,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",36.5
+"446","HONDA","FIT","Car",128,"4","SCV","Selectable Continuously Variable (e.g. CVT with paddles)","7","F",3000,5.44,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",40.7
+"447","HONDA","FIT","Car",128,"4","CVT","Continuously Variable","1","F",2875,5.44,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",43.7
+"448","HONDA","FIT","Car",130,"4","M","Manual","6","F",2875,4.62,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",37.6
+"449","HONDA","FIT EX","Car",128,"4","M","Manual","6","F",2875,4.62,"3","HWFE","61","Tier 2 Cert Gasoline",51.9
+"450","HONDA","FIT LX","Car",128,"4","M","Manual","6","F",2875,4.62,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",38.2
+"451","HONDA","HR-V 2WD","Car",138,"4","M","Manual","6","F",3250,4.71,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",32.4
+"452","HONDA","HR-V 2WD","Car",138,"4","SCV","Selectable Continuously Variable (e.g. CVT with paddles)","7","F",3250,5.44,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",37.1
+"453","HONDA","HR-V 4WD","Car",138,"4","SCV","Selectable Continuously Variable (e.g. CVT with paddles)","7","F",3375,5.44,"3","HWFE","61","Tier 2 Cert Gasoline",45.7
+"454","HONDA","MDX AWD","Car",290,"6","SA","Semi-Automatic","9","F",4500,4.33,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",24.4
+"455","HONDA","MDX FWD","Car",290,"6","SA","Semi-Automatic","9","F",4500,4.33,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",24.8
+"456","HONDA","MDX FWD","Car",290,"6","SA","Semi-Automatic","9","F",4250,4.33,"3","HWFE","61","Tier 2 Cert Gasoline",41
+"457","HONDA","ODYSSEY","Truck",280,"6","SA","Semi-Automatic","9","F",4750,4.33,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",23.5
+"458","HONDA","ODYSSEY FWD","Truck",280,"6","SA","Semi-Automatic","10","F",5000,3.61,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",24.2
+"459","HONDA","ODYSSEY FWD","Truck",280,"6","SA","Semi-Automatic","10","F",4750,3.61,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",24.8
+"460","HONDA","RIDGELINE AWD","Truck",280,"6","A","Automatic","6","F",4750,4.25,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",23.1
+"461","HONDA","RIDGELINE FWD","Truck",280,"6","A","Automatic","6","F",4500,4.25,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",23.5
+"462","HONDA","TLX V6 AWD","Car",290,"6","AMS","Automated Manual- Selectable (e.g. Automated Manual with paddles)","9","F",4250,3.52,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",24.8
+"463","HONDA","TLX V6 AWD","Car",290,"6","AMS","Automated Manual- Selectable (e.g. Automated Manual with paddles)","9","F",4000,3.52,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",25.9
+"464","HONDA","TLX V6 FWD","Car",290,"6","AMS","Automated Manual- Selectable (e.g. Automated Manual with paddles)","9","F",4000,3.52,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",24.8
+"465","HONDA","TLX V6 FWD","Car",290,"6","AMS","Automated Manual- Selectable (e.g. Automated Manual with paddles)","9","F",3875,3.52,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",25.5
+"466","Hyundai","Elantra","Car",128,"4","AM","Automated Manual","7","F",3125,3.14,"90","US06","61","Tier 2 Cert Gasoline",35.7
+"467","Hyundai","Elantra","Car",128,"4","AM","Automated Manual","7","F",3125,3.14,"11","Cold CO","26","Cold CO Regular (Tier 2)",36.1
+"468","Hyundai","Elantra","Car",147,"4","SA","Semi-Automatic","6","F",3250,3.06,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",34.8
+"469","Hyundai","Elantra","Car",147,"4","SA","Semi-Automatic","6","F",3125,3.06,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",34.9
+"470","Hyundai","Elantra","Car",147,"4","SA","Semi-Automatic","6","F",3250,3.06,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",36
+"471","Hyundai","Elantra","Car",147,"4","SA","Semi-Automatic","6","F",3125,3.06,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",37.5
+"472","Hyundai","Elantra","Car",147,"4","M","Manual","6","F",3125,4.33,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",33.4
+"473","Hyundai","Elantra","Car",201,"4","AM","Automated Manual","7","F",3375,3.61,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",33.2
+"474","Hyundai","Elantra","Car",201,"4","AM","Automated Manual","7","F",3375,3.61,"11","Cold CO","26","Cold CO Regular (Tier 2)",29.1
+"475","Hyundai","Elantra","Car",201,"4","M","Manual","6","F",3375,4.47,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",28
+"476","Hyundai","Elantra GT","Car",161,"4","SA","Semi-Automatic","6","F",3250,3.27,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",31.2
+"477","Hyundai","Elantra GT","Car",161,"4","M","Manual","6","F",3250,4.47,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",30.1
+"478","Hyundai","Elantra GT","Car",201,"4","AM","Automated Manual","7","F",3375,3.61,"3","HWFE","61","Tier 2 Cert Gasoline",45.8
+"479","Hyundai","Elantra GT","Car",201,"4","M","Manual","6","F",3375,4.47,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",27.9
+"480","Hyundai","G80","Car",365,"6","SA","Semi-Automatic","8","R",4750,3.54,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",21.7
+"481","Hyundai","G80","Car",365,"6","SA","Semi-Automatic","8","R",5000,3.54,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",21.3
+"482","HYUNDAI","G80","Car",311,"6","SA","Semi-Automatic","8","R",4750,3.91,"3","HWFE","61","Tier 2 Cert Gasoline",34.5
+"483","HYUNDAI","G80","Car",311,"6","SA","Semi-Automatic","8","R",4500,3.54,"3","HWFE","61","Tier 2 Cert Gasoline",37.6
+"484","HYUNDAI","G80","Car",420,"8","SA","Semi-Automatic","8","R",5000,3.54,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",18.7
+"485","HYUNDAI","G80","Car",420,"8","SA","Semi-Automatic","8","R",4750,3.54,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",19.7
+"486","Hyundai","G90","Car",365,"6","SA","Semi-Automatic","8","A",5000,3.54,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",21.5
+"487","Hyundai","G90","Car",365,"6","SA","Semi-Automatic","8","R",5000,3.54,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",21.5
+"488","Hyundai","G90","Car",420,"8","SA","Semi-Automatic","8","R",5250,3.54,"3","HWFE","61","Tier 2 Cert Gasoline",32.1
+"489","Hyundai","G90","Car",420,"8","SA","Semi-Automatic","8","R",5000,3.54,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",19.5
+"490","HYUNDAI","IONIQ PHEV","Car",104,"4","AM","Automated Manual","6","F",3625,4.19,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",71.6
+"491","Hyundai","Santa Fe","Car",290,"6","A","Automatic","6","4",4500,3.04,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",22.7
+"492","Hyundai","Santa Fe","Car",290,"6","A","Automatic","6","F",4250,3.04,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",22.8
+"493","Hyundai","Santa Fe Sport","Car",240,"4","SA","Semi-Automatic","6","F",4250,3.2,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",25.4
+"494","Hyundai","Santa Fe Sport","Car",240,"4","SA","Semi-Automatic","6","A",4500,3.51,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",23.7
+"495","Hyundai","Santa Fe Sport","Car",240,"4","SA","Semi-Automatic","6","A",4250,3.51,"3","HWFE","61","Tier 2 Cert Gasoline",36.5
+"496","Hyundai","Santa Fe Sport","Car",185,"4","SA","Semi-Automatic","6","F",4000,3.51,"3","HWFE","61","Tier 2 Cert Gasoline",38.8
+"497","Hyundai","Santa Fe Sport","Car",185,"4","SA","Semi-Automatic","6","4",4250,3.65,"3","HWFE","61","Tier 2 Cert Gasoline",36.6
+"498","Hyundai","Santa Fe Ultimate","Car",290,"6","A","Automatic","6","F",4500,3.04,"90","US06","61","Tier 2 Cert Gasoline",20.9
+"499","Hyundai","Santa Fe Ultimate","Car",290,"6","A","Automatic","6","A",4750,3.04,"90","US06","61","Tier 2 Cert Gasoline",19.7
+"500","HYUNDAI","Sonata","Car",185,"4","SA","Semi-Automatic","6","F",3625,2.89,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",31
+"501","HYUNDAI","Sonata","Car",185,"4","SA","Semi-Automatic","6","F",3500,2.89,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",31.9
+"502","HYUNDAI","Sonata","Car",185,"4","SA","Semi-Automatic","6","F",3625,2.89,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",32.2
+"503","HYUNDAI","Sonata","Car",185,"4","SA","Semi-Automatic","6","F",3500,2.89,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",32.9
+"504","Hyundai","Sonata","Car",248,"4","SA","Semi-Automatic","8","F",3875,3.32,"3","HWFE","61","Tier 2 Cert Gasoline",45.5
+"505","Hyundai","Sonata","Car",178,"4","AM","Automated Manual","7","F",3500,3.17,"90","US06","61","Tier 2 Cert Gasoline",33
+"506","Hyundai","Sonata","Car",178,"4","AM","Automated Manual","7","F",3500,3.17,"11","Cold CO","26","Cold CO Regular (Tier 2)",30.8
+"507","HYUNDAI","Tucson","Car",164,"4","SA","Semi-Automatic","6","A",3750,3.65,"3","HWFE","61","Tier 2 Cert Gasoline",36.3
+"508","HYUNDAI","Tucson","Car",164,"4","SA","Semi-Automatic","6","F",3625,3.51,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",29.9
+"509","Hyundai","Tucson","Car",175,"4","AM","Automated Manual","7","F",3875,3.58,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",32.1
+"510","Hyundai","Tucson","Car",175,"4","AM","Automated Manual","7","A",4000,3.58,"3","HWFE","61","Tier 2 Cert Gasoline",39.1
+"511","KIA","Optima","Car",245,"4","SA","Semi-Automatic","6","F",3875,2.89,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",27.4
+"512","KIA","Optima","Car",185,"4","SA","Semi-Automatic","6","F",3625,2.89,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",31.6
+"513","KIA","Optima","Car",185,"4","SA","Semi-Automatic","6","F",3625,2.89,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",30.3
+"514","KIA","Optima","Car",178,"4","AM","Automated Manual","7","F",3500,3.17,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",36.3
+"515","KIA","Optima Fe","Car",185,"4","SA","Semi-Automatic","6","F",3500,2.89,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",32.9
+"516","KIA","Optima FE","Car",185,"4","SA","Semi-Automatic","6","F",3500,2.89,"3","HWFE","61","Tier 2 Cert Gasoline",51.3
+"517","Jaguar","F-PACE","Both",180,"4","SA","Semi-Automatic","8","4",4500,3.23,"3","HWFE","19","Federal Cert Diesel 7-15 PPM Sulfur",47.3
+"518","Jaguar","F-PACE","Both",340,"6","SA","Semi-Automatic","8","4",4750,3.73,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",22.1
+"519","Jaguar","F-Pace","Both",250,"4","SA","Semi-Automatic","8","A",4500,3.73,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",27.9
+"520","Jaguar","F-TYPE","Both",340,"6","SA","Semi-Automatic","8","R",4000,3.15,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",25
+"521","Jaguar","F-Type AWD","Car",380,"6","SA","Semi-Automatic","8","4",4250,3.31,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",22.7
+"522","Jaguar","F-Type AWD","Car",550,"8","SA","Semi-Automatic","8","4",4500,2.56,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",18.6
+"523","Jaguar","F-Type Convertible","Both",310,"4","SA","Semi-Automatic","8","R",3875,3.55,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",29.4
+"524","Jaguar","F-Type Manual","Car",340,"6","M","Manual","6","4",4250,3.31,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",19.1
+"525","Jaguar","XE","Both",340,"6","SA","Semi-Automatic","8","4",4250,3.23,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",26.1
+"526","Jaguar","XE","Both",180,"4","SA","Semi-Automatic","8","R",4000,2.73,"2","CVS 75 and later (w/o can. load)","19","Federal Cert Diesel 7-15 PPM Sulfur",42.6
+"527","Jaguar","XE AWD","Both",180,"4","SA","Semi-Automatic","8","A",4250,2.73,"2","CVS 75 and later (w/o can. load)","19","Federal Cert Diesel 7-15 PPM Sulfur",39.9
+"528","Jaguar","XE AWD","Both",250,"4","SA","Semi-Automatic","8","A",4000,3.42,"3","HWFE","61","Tier 2 Cert Gasoline",49.6
+"529","Jaguar","XE AWD","Both",340,"6","SA","Semi-Automatic","8","4",4250,3.23,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",25.2
+"530","Jaguar","XF","Car",340,"6","SA","Semi-Automatic","8","4",4250,3.23,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",25.3
+"531","Jaguar","XF","Both",250,"4","SA","Semi-Automatic","8","R",4250,3.42,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",32.5
+"532","Jaguar","XF AWD","Both",250,"4","SA","Semi-Automatic","8","A",4250,3.42,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",29.8
+"533","Jaguar","XF AWD","Car",340,"6","SA","Semi-Automatic","8","4",4500,3.23,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",24.8
+"534","Land Rover","Discovery Sport 250PS","Truck",250,"4","SA","Semi-Automatic","9","A",4500,4.54,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",26.1
+"535","Land Rover","Range Rover Velar","Both",250,"4","SA","Semi-Automatic","8","A",4500,3.73,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",26.6
+"536","Land Rover","Range Rover Velar","Both",180,"4","SA","Semi-Automatic","8","4",4750,3.23,"2","CVS 75 and later (w/o can. load)","19","Federal Cert Diesel 7-15 PPM Sulfur",33.2
+"537","Land Rover","Velar","Both",375,"6","SA","Semi-Automatic","8","4",4750,3.73,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",22.7
+"538","Karma","Revero","Car",255,"4","A","Automatic","1","R",5500,4.1,"11","Cold CO","27","Cold CO Premium (Tier 2)",19.2
+"539","Karma","Revero","Car",255,"4","A","Automatic","1","R",5500,4.1,"95","SC03","61","Tier 2 Cert Gasoline",19.2
+"540","HYUNDAI","ACCENT","Car",130,"4","SA","Semi-Automatic","6","F",3000,3.07,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",33.8
+"541","HYUNDAI","ACCENT","Car",130,"4","SA","Semi-Automatic","6","F",2875,3.07,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",37.1
+"542","HYUNDAI","ACCENT","Car",130,"4","M","Manual","6","F",2750,4.06,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",36.1
+"543","Kia","Forte","Car",164,"4","SA","Semi-Automatic","6","F",3250,3.06,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",32.3
+"544","Kia","Forte","Car",160,"4","SA","Semi-Automatic","6","F",3250,3.06,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",32.2
+"545","Kia","Forte","Car",147,"4","M","Manual","6","F",3125,4.33,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",32.3
+"546","Kia","Forte","Car",147,"4","SA","Semi-Automatic","6","F",3125,3.06,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",35.4
+"547","Kia","Forte","Car",147,"4","SA","Semi-Automatic","6","F",3125,3.06,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",39
+"548","Kia","Forte5","Car",164,"4","SA","Semi-Automatic","6","F",3250,3.07,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",32.1
+"549","Kia","Forte5","Car",201,"4","AM","Automated Manual","7","F",3375,3.61,"3","HWFE","61","Tier 2 Cert Gasoline",42.6
+"550","Kia","Forte5","Car",201,"4","M","Manual","6","F",3375,4.47,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",29.3
+"551","KIA","NIRO","Car",104,"4","AM","Automated Manual","6","F",3625,3.23,"11","Cold CO","26","Cold CO Regular (Tier 2)",42.9
+"552","KIA","NIRO","Car",104,"4","AM","Automated Manual","6","F",3625,3.23,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",60
+"553","KIA","NIRO","Car",104,"4","AM","Automated Manual","6","F",3500,3.23,"90","US06","61","Tier 2 Cert Gasoline",44
+"554","KIA","NIRO","Car",104,"4","AM","Automated Manual","6","F",3500,3.23,"11","Cold CO","26","Cold CO Regular (Tier 2)",46.9
+"555","KIA","NIRO","Car",104,"4","AM","Automated Manual","6","F",3375,3.23,"90","US06","61","Tier 2 Cert Gasoline",45.8
+"556","KIA","NIRO","Car",104,"4","AM","Automated Manual","6","F",3375,3.23,"11","Cold CO","26","Cold CO Regular (Tier 2)",48.6
+"557","KIA","Rio","Car",130,"4","A","Automatic","6","F",2875,3.07,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",36.5
+"558","KIA","Rio","Car",130,"4","M","Manual","6","F",2750,4.06,"3","HWFE","61","Tier 2 Cert Gasoline",53.7
+"559","KIA","Rio","Car",130,"4","A","Automatic","6","F",2875,3.07,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",37
+"560","KIA","Rio","Car",130,"4","M","Manual","6","F",2750,4.06,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",37.5
+"561","Kia","Sedona","Truck",276,"6","SA","Semi-Automatic","6","F",4750,3.04,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",22.3
+"562","Kia","Sedona SX","Truck",276,"6","SA","Semi-Automatic","6","F",4750,3.04,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",22.8
+"563","Kia","Sedona SXL","Truck",276,"6","SA","Semi-Automatic","6","F",5000,3.2,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",20.7
+"564","Kia","Sorento","Car",240,"4","SA","Semi-Automatic","6","A",4250,3.51,"3","HWFE","61","Tier 2 Cert Gasoline",35.9
+"565","Kia","Sorento","Car",240,"4","SA","Semi-Automatic","6","F",4250,3.2,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",25.3
+"566","Kia","Sorento","Car",185,"4","SA","Semi-Automatic","6","A",4250,3.65,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",26
+"567","Kia","Sorento","Car",185,"4","SA","Semi-Automatic","6","F",4000,3.51,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",26.3
+"568","Kia","Sorento","Car",290,"6","SA","Semi-Automatic","6","A",4750,3.04,"3","HWFE","61","Tier 2 Cert Gasoline",32.4
+"569","Kia","Sorento","Car",290,"6","SA","Semi-Automatic","6","A",4500,3.04,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",22.3
+"570","Kia","Sorento","Car",290,"6","SA","Semi-Automatic","6","F",4500,3.04,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",22.1
+"571","Kia","Soul","Car",160,"4","SA","Semi-Automatic","6","F",3375,3.38,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",30.4
+"572","Kia","Soul","Car",160,"4","SA","Semi-Automatic","6","F",3250,3.27,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",31
+"573","Kia","Soul","Car",161,"4","SA","Semi-Automatic","6","F",3375,3.38,"3","HWFE","61","Tier 2 Cert Gasoline",42.8
+"574","Kia","Soul","Car",161,"4","SA","Semi-Automatic","6","F",3250,3.27,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",32.2
+"575","Kia","Soul","Car",130,"4","SA","Semi-Automatic","6","F",3125,3.96,"3","HWFE","61","Tier 2 Cert Gasoline",43
+"576","Kia","Soul","Car",130,"4","M","Manual","6","F",3125,4.56,"3","HWFE","61","Tier 2 Cert Gasoline",43
+"577","Kia","Soul","Car",201,"4","AM","Automated Manual","7","F",3375,3.42,"3","HWFE","61","Tier 2 Cert Gasoline",43.9
+"578","Kia","Sportage","Truck",240,"4","SA","Semi-Automatic","6","F",4000,3.32,"90","US06","61","Tier 2 Cert Gasoline",23.5
+"579","Kia","Sportage","Truck",237,"4","SA","Semi-Automatic","6","A",4000,3.32,"90","US06","61","Tier 2 Cert Gasoline",21.2
+"580","Kia","Sportage","Truck",181,"4","SA","Semi-Automatic","6","F",3750,3.06,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",28.4
+"581","Kia","Sportage","Truck",181,"4","SA","Semi-Automatic","6","F",3625,3.06,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",29.2
+"582","Kia","Sportage","Truck",181,"4","SA","Semi-Automatic","6","F",3750,3.06,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",29.1
+"583","Kia","Sportage","Truck",181,"4","SA","Semi-Automatic","6","F",3625,3.06,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",28.7
+"584","Kia","Sportage","Truck",181,"4","SA","Semi-Automatic","6","A",3875,3.2,"3","HWFE","61","Tier 2 Cert Gasoline",34.9
+"585","Kia","Sportage","Truck",181,"4","SA","Semi-Automatic","6","A",3875,3.2,"3","HWFE","61","Tier 2 Cert Gasoline",35.6
+"586","LAMBORGHINI","AVENTADOR","Car",700,"12","AMS","Automated Manual- Selectable (e.g. Automated Manual with paddles)","7","R",4250,2.87,"11","Cold CO","27","Cold CO Premium (Tier 2)",11.2
+"587","LAMBORGHINI","AVENTADOR","Car",700,"12","AMS","Automated Manual- Selectable (e.g. Automated Manual with paddles)","7","R",4250,2.87,"95","SC03","61","Tier 2 Cert Gasoline",12
+"588","LAMBORGHINI","AVENTADOR","Car",700,"12","AMS","Automated Manual- Selectable (e.g. Automated Manual with paddles)","7","R",4000,2.87,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",12.6
+"589","MASERATI","Ghibli S Q4 V6 AWD","Car",405,"6","A","Automatic","8","A",4750,2.8,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",19.8
+"590","MASERATI","Ghibli S RWD 405HP","Car",405,"6","A","Automatic","8","R",4750,2.8,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",20.2
+"591","MASERATI","GHIBLI V6 RWD","Car",345,"6","A","Automatic","8","R",4750,2.8,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",20.8
+"592","MASERATI","GRANTURISMO CONVERTIBLE","Car",444,"8","A","Automatic","6","R",4750,3.73,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",15.9
+"593","MASERATI","GRANTURISMO SPORT","Car",454,"8","A","Automatic","6","R",4500,3.54,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",15.9
+"594","MASERATI","LEVANTE","Truck",345,"8","A","Automatic","8","R",5250,3.27,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",18.3
+"595","MASERATI","LEVANTE S","Truck",424,"8","A","Automatic","8","R",5250,3.27,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",18
+"596","MASERATI","QUATTROPORTE GTS","Car",523,"8","A","Automatic","8","R",4750,2.93,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",18
+"597","MASERATI","QUATTROPORTE S","Car",405,"6","A","Automatic","8","R",4750,2.8,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",19.6
+"598","MASERATI","QUATTROPORTE SQ4 V6","Car",405,"6","A","Automatic","8","R",5000,2.8,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",19.5
+"599","MAZDA","CX-3","Car",146,"4","SA","Semi-Automatic","6","F",3250,4.32,"3","HWFE","61","Tier 2 Cert Gasoline",45.4
+"600","MAZDA","CX-3","Car",146,"4","SA","Semi-Automatic","6","F",3125,4.32,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",37.5
+"601","MAZDA","CX-9","Truck",227,"4","A","Automatic","6","F",4750,4.41,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",25.9
+"602","MAZDA","CX-9","Truck",227,"4","A","Automatic","6","F",4500,4.41,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",28
+"603","MAZDA","MAZDA2","Car",106,"4","M","Manual","6","F",2625,4.11,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",41
+"604","MAZDA","MAZDA2","Car",106,"4","M","Manual","6","F",2750,4.11,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",40.5
+"605","MAZDA","MAZDA2","Car",106,"4","A","Automatic","6","F",2625,3.82,"3","HWFE","61","Tier 2 Cert Gasoline",58.9
+"606","MAZDA","MAZDA2","Car",106,"4","A","Automatic","6","F",2750,3.82,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",43.5
+"607","MAZDA","MAZDA3","Car",155,"4","M","Manual","6","F",3250,3.85,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",36.2
+"608","MAZDA","MAZDA3","Car",155,"4","A","Automatic","6","F",3250,3.59,"3","HWFE","61","Tier 2 Cert Gasoline",54.3
+"609","MAZDA","MAZDA3","Car",184,"4","A","Automatic","6","F",3375,3.39,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",34.9
+"610","Mercedes-Benz","AMG C 43 4MATIC","Both",362,"6","A","Automatic","9","R",4250,3.07,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",25.2
+"611","Mercedes-Benz","AMG C 43 4MATIC (convertible)","Both",362,"6","A","Automatic","9","R",4500,3.07,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",24.4
+"612","Mercedes-Benz","AMG C 43 4MATIC (coupe)","Both",362,"6","A","Automatic","9","R",4250,3.07,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",25
+"613","Mercedes-Benz","AMG C 63","Car",469,"8","A","Automatic","7","R",4500,3.06,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",21.3
+"614","Mercedes-Benz","AMG C 63","Car",469,"8","A","Automatic","7","R",4250,2.82,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",22
+"615","Mercedes-Benz","AMG C 63 (convertible)","Car",469,"8","A","Automatic","7","R",4500,3.06,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",20.9
+"616","Mercedes-Benz","AMG E 43 4MATIC","Both",396,"6","A","Automatic","9","R",4500,3.07,"3","HWFE","61","Tier 2 Cert Gasoline",35.3
+"617","Mercedes-Benz","AMG E 63 S 4MATIC","Car",604,"8","A","Automatic","9","R",4750,3.06,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",18.9
+"618","Mercedes-Benz","AMG E 63 S 4MATIC (station wagon)","Car",604,"8","A","Automatic","9","R",5000,3.06,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",19.3
+"619","Mercedes-Benz","AMG GLC 43 4MATIC","Both",362,"6","A","Automatic","9","R",4500,3.69,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",22.6
+"620","Mercedes-Benz","AMG GLC 43 4MATIC (coupe)","Both",362,"6","A","Automatic","9","R",4500,3.69,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",22.7
+"621","Mercedes-Benz","AMG GLE 43 4MATIC","Truck",385,"6","A","Automatic","9","A",5500,3.46,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",21.7
+"622","Mercedes-Benz","AMG GLE 43 4MATIC (coupe)","Truck",385,"6","A","Automatic","7","A",5500,3.69,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",21.7
+"623","Mercedes-Benz","AMG GLE 63 S (coupe)","Truck",577,"8","A","Automatic","7","R",5500,3.69,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",16.7
+"624","Mercedes-Benz","AMG GT (roadster)","Car",469,"8","AM","Automated Manual","7","R",4000,3.67,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",19.8
+"625","Mercedes-Benz","AMG GT C (roadster)","Car",550,"8","A","Automatic","7","R",4000,3.88,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",18.8
+"626","Mercedes-Benz","AMG GT R (coupe)","Car",577,"8","A","Automatic","7","R",4000,3.88,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",18.7
+"627","Mercedes-Benz","AMG GT S","Car",503,"8","AM","Automated Manual","7","R",4000,3.67,"3","HWFE","61","Tier 2 Cert Gasoline",30.2
+"628","Mercedes-Benz","AMG S 63 4MATIC","Both",603,"8","A","Automatic","9","R",5250,2.82,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",20.8
+"629","Mercedes-Benz","AMG SL 65","Both",621,"12","A","Automatic","7","R",4500,2.65,"11","Cold CO","27","Cold CO Premium (Tier 2)",13.5
+"630","Mercedes-Benz","AMG SL 65","Both",621,"12","A","Automatic","7","R",4500,2.65,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",17.1
+"631","Mercedes-Benz","AMG SLC 43","Both",362,"6","A","Automatic","9","R",3875,2.82,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",25.8
+"632","Mercedes-Benz","C 300","Both",241,"4","A","Automatic","9","R",3875,3.07,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",30.7
+"633","Mercedes-Benz","C 300 (convertible)","Both",241,"4","A","Automatic","9","R",4250,3.07,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",28.5
+"634","Mercedes-Benz","C 300 (coupe)","Both",241,"4","A","Automatic","9","R",4000,3.07,"3","HWFE","61","Tier 2 Cert Gasoline",43.6
+"635","Mercedes-Benz","C 300 4MATIC","Both",241,"4","A","Automatic","9","R",4000,3.07,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",29.8
+"636","Mercedes-Benz","C 300 4MATIC (convertible)","Both",241,"4","A","Automatic","9","R",4250,3.07,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",27.7
+"637","Mercedes-Benz","C 300 4MATIC (coupe)","Both",241,"4","A","Automatic","9","R",4000,3.07,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",28.5
+"638","Mercedes-Benz","CLA 250","Both",208,"4","AM","Automated Manual","7","F",3625,2.4,"3","HWFE","61","Tier 2 Cert Gasoline",53.6
+"639","Mercedes-Benz","CLA 250 4MATIC","Both",208,"4","AM","Automated Manual","7","F",3750,2.65,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",30.6
+"640","Mercedes-Benz","CLA 250 4MATIC","Both",208,"4","AM","Automated Manual","7","F",3750,2.65,"21","Federal fuel 2-day exhaust (w/can load)","38","E85 (85% Ethanol 15% EPA Unleaded Gasoline)",22
+"641","Mercedes-Benz","CLA 45 AMG 4MATIC","Car",355,"4","AM","Automated Manual","7","R",3875,2.44,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",29.3
+"642","Mercedes-Benz","CLS 550","Car",402,"8","A","Automatic","9","R",4500,2.47,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",22.5
+"643","Mercedes-Benz","CLS 550 4MATIC","Car",402,"8","A","Automatic","9","R",4750,2.47,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",21.6
+"644","Mercedes-Benz","CLS 63 AMG 4MATIC","Car",550,"8","A","Automatic","7","R",4750,2.65,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",19.4
+"645","Mercedes-Benz","E 300","Both",241,"4","A","Automatic","9","R",4250,3.07,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",28.2
+"646","Mercedes-Benz","E 300 4MATIC","Both",241,"4","A","Automatic","9","R",4250,3.07,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",27.1
+"647","Mercedes-Benz","E 400 (convertible)","Both",329,"6","A","Automatic","9","R",4500,2.82,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",25.1
+"648","Mercedes-Benz","E 400 (coupe)","Both",329,"6","A","Automatic","9","R",4500,2.82,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",25.2
+"649","Mercedes-Benz","E 400 4MATIC (convertible)","Both",329,"6","A","Automatic","9","R",4750,2.82,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",24.8
+"650","Mercedes-Benz","E 400 4MATIC (coupe)","Both",329,"6","A","Automatic","9","R",4500,2.82,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",25.2
+"651","Mercedes-Benz","E 400 4MATIC (station wagon)","Car",329,"6","A","Automatic","9","R",4750,2.82,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",24
+"652","Mercedes-Benz","GL 63 AMG","Truck",518,"8","A","Automatic","7","R",6000,3.47,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",16.4
+"656","Mercedes-Benz","GLA 45 AMG 4MATIC","Car",355,"4","AM","Automated Manual","7","F",3875,2.44,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",28.1
+"657","Mercedes-Benz","GLC 300","Both",241,"4","A","Automatic","9","R",4250,3.27,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",27.7
+"658","Mercedes-Benz","GLC 300 4MATIC","Both",241,"4","A","Automatic","9","R",4500,3.27,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",26.8
+"659","Mercedes-Benz","GLC 300 4MATIC (coupe)","Both",241,"4","A","Automatic","9","R",4500,3.27,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",27.4
+"660","Mercedes-Benz","GLS 450 4MATIC","Truck",362,"6","A","Automatic","9","R",6000,3.27,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",20.6
+"661","Mercedes-Benz","GLS 550 4MATIC","Truck",449,"8","A","Automatic","9","R",6000,3.27,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",17.6
+"662","Mercedes-Benz","Metris (Cargo Van)","Truck",208,"4","A","Automatic","7","R",4500,3.5,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",26
+"663","Mercedes-Benz","Metris (Passenger Van)","Truck",208,"4","A","Automatic","7","R",5250,3.5,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",24
+"664","Mercedes-Benz","ML 350","Both",302,"6","A","Automatic","7","R",5000,3.69,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",22.8
+"665","Mercedes-Benz","ML 350 4MATIC","Both",302,"6","A","Automatic","7","R",5250,3.69,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",21.9
+"666","Mercedes-Benz","ML 350 4MATIC","Both",302,"6","A","Automatic","7","R",5250,3.69,"21","Federal fuel 2-day exhaust (w/can load)","38","E85 (85% Ethanol 15% EPA Unleaded Gasoline)",16.3
+"667","Mercedes-Benz","ML 63 AMG","Truck",518,"8","A","Automatic","7","R",5500,3.47,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",16.9
+"668","Mercedes-Benz","S 450","Car",362,"6","A","Automatic","9","R",5000,2.82,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",23.5
+"669","Mercedes-Benz","S 450 4MATIC","Car",362,"6","A","Automatic","9","R",5000,2.82,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",23.1
+"670","Mercedes-Benz","S 560 4MATIC","Both",463,"8","A","Automatic","9","R",5250,2.65,"3","HWFE","61","Tier 2 Cert Gasoline",38.6
+"671","Mercedes-Benz","S 560 4MATIC Maybach","Both",463,"8","A","Automatic","9","R",5500,2.65,"3","HWFE","61","Tier 2 Cert Gasoline",35.2
+"672","Mercedes-Benz","SL 450","Car",362,"6","A","Automatic","9","R",4250,3.07,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",25.8
+"673","Mercedes-Benz","SL 550","Car",449,"8","A","Automatic","9","R",4250,2.65,"3","HWFE","61","Tier 2 Cert Gasoline",34.5
+"674","Mercedes-Benz","SL 63 AMG","Car",536,"8","A","Automatic","7","R",4500,2.65,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",19.8
+"675","Mercedes-Benz","SL 63 AMG","Car",536,"8","A","Automatic","7","R",4500,2.65,"11","Cold CO","27","Cold CO Premium (Tier 2)",15.7
+"676","Mercedes-Benz","SLK 300","Car",241,"4","A","Automatic","9","R",3750,3.07,"3","HWFE","61","Tier 2 Cert Gasoline",45.9
+"677","MITSUBISHI","MIRAGE","Car",78,"3","M","Manual","5","F",2375,4.06,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",44.7
+"678","MITSUBISHI","MIRAGE","Car",78,"3","CVT","Continuously Variable","1","F",2500,3.76,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",46.5
+"679","MITSUBISHI","MIRAGE","Car",78,"3","CVT","Continuously Variable","1","F",2375,3.76,"3","HWFE","61","Tier 2 Cert Gasoline",64.7
+"680","MITSUBISHI","MIRAGE G4","Car",78,"3","M","Manual","5","F",2500,4.06,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",43.7
+"681","MITSUBISHI","MIRAGE G4","Car",78,"3","CVT","Continuously Variable","1","F",2500,3.76,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",45.1
+"682","INFINITI","INFINITI Q50 AWD PREMIUM","Car",208,"4","SA","Semi-Automatic","7","R",4250,3.13,"90","US06","61","Tier 2 Cert Gasoline",24.9
+"683","INFINITI","INFINITI Q50 PREMIUM","Car",208,"4","SA","Semi-Automatic","7","R",4000,2.94,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",29
+"684","INFINITI","INFINITI Q70 3.7","Car",330,"6","SA","Semi-Automatic","7","R",4250,3.36,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",22.9
+"685","INFINITI","INFINITI Q70 3.7 AWD","Car",330,"6","SA","Semi-Automatic","7","R",4500,3.36,"3","HWFE","61","Tier 2 Cert Gasoline",33.9
+"686","INFINITI","INFINITI Q70 AWD 5.6","Car",420,"8","SA","Semi-Automatic","7","R",4750,2.61,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",19.3
+"687","INFINITI","INFINITI Q70 AWD 5.6","Car",420,"8","SA","Semi-Automatic","7","R",4500,2.61,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",20.4
+"688","INFINITI","INFINITI QX30 AWD Base","Car",155,"4","SA","Semi-Automatic","7","4",3875,2.65,"3","HWFE","61","Tier 2 Cert Gasoline",42.3
+"689","INFINITI","INFINITI QX30 AWD Base","Car",155,"4","SA","Semi-Automatic","7","4",3750,2.65,"3","HWFE","61","Tier 2 Cert Gasoline",42.2
+"690","INFINITI","INFINITI QX30 Premium","Car",155,"4","SA","Semi-Automatic","7","F",3625,2.65,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",31.6
+"691","INFINITI","INFINITI QX30 Premium","Car",155,"4","SA","Semi-Automatic","7","F",3750,2.65,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",31.2
+"692","INFINITI","Q50","Car",300,"6","SA","Semi-Automatic","7","R",4000,2.94,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",25.1
+"693","INFINITI","Q50 AWD","Car",300,"6","SA","Semi-Automatic","7","R",4250,2.94,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",23.7
+"694","INFINITI","Q50 AWD","Car",300,"6","SA","Semi-Automatic","7","R",4250,2.94,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",23.8
+"695","INFINITI","Q50 AWD RED SPORT","Car",400,"6","SA","Semi-Automatic","7","R",4250,3.13,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",24.8
+"696","INFINITI","Q50 HYBRID","Car",302,"6","SA","Semi-Automatic","7","R",4250,2.61,"3","HWFE","61","Tier 2 Cert Gasoline",45.4
+"697","INFINITI","Q50 HYBRID AWD","Car",302,"6","SA","Semi-Automatic","7","R",4500,2.61,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",33.7
+"698","INFINITI","Q50 RED SPORT","Car",400,"6","SA","Semi-Automatic","7","R",4250,3.13,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",24.8
+"699","INFINITI","Q60","Car",300,"6","SA","Semi-Automatic","7","R",4250,2.94,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",24.4
+"700","INFINITI","Q60","Car",300,"6","SA","Semi-Automatic","7","R",4250,2.94,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",24.4
+"701","INFINITI","Q60","Car",208,"4","SA","Semi-Automatic","7","R",4000,2.94,"90","US06","61","Tier 2 Cert Gasoline",26.3
+"702","INFINITI","Q60 AWD","Car",300,"6","SA","Semi-Automatic","7","R",4250,2.94,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",23.6
+"703","INFINITI","Q60 AWD","Car",300,"6","SA","Semi-Automatic","7","R",4250,2.94,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",24.3
+"704","INFINITI","Q60 AWD","Car",208,"4","SA","Semi-Automatic","7","R",4250,3.13,"90","US06","61","Tier 2 Cert Gasoline",24.4
+"705","INFINITI","Q60 AWD RED SPORT","Car",400,"6","SA","Semi-Automatic","7","R",4250,3.13,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",23.6
+"706","INFINITI","Q60 RED SPORT","Car",400,"6","SA","Semi-Automatic","7","R",4250,3.13,"3","HWFE","61","Tier 2 Cert Gasoline",39.4
+"707","INFINITI","Q70 HYBRID","Car",302,"6","SA","Semi-Automatic","7","R",4500,2.61,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",36.8
+"708","INFINITI","QX60 AWD","Truck",295,"6","CVT","Continuously Variable","1","F",4750,5.25,"3","HWFE","61","Tier 2 Cert Gasoline",36.8
+"709","INFINITI","QX60 FWD","Truck",295,"6","CVT","Continuously Variable","1","F",4750,5.25,"3","HWFE","61","Tier 2 Cert Gasoline",37.2
+"710","NISSAN","ALTIMA","Car",179,"4","CVT","Continuously Variable","1","F",3500,4.83,"90","US06","61","Tier 2 Cert Gasoline",33.6
+"711","NISSAN","ALTIMA SR","Car",179,"4","CVT","Continuously Variable","1","F",3500,4.83,"90","US06","61","Tier 2 Cert Gasoline",34.3
+"712","NISSAN","ARMADA 2WD","Truck",381,"8","SA","Semi-Automatic","7","R",6000,2.94,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",17.5
+"713","NISSAN","ARMADA 4WD","Truck",381,"8","SA","Semi-Automatic","7","R",6000,2.94,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",16.8
+"714","NISSAN","ARMADA 4WD","Truck",390,"8","SA","Semi-Automatic","7","R",6500,2.94,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",16.2
+"715","NISSAN","FRONTIER 2WD","Truck",152,"4","A","Automatic","5","R",4000,3.69,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",21.2
+"716","NISSAN","FRONTIER 2WD","Truck",152,"4","A","Automatic","5","R",4000,3.92,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",22
+"717","NISSAN","FRONTIER 2WD","Truck",261,"6","A","Automatic","5","R",4500,2.94,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",19.9
+"718","NISSAN","FRONTIER 2WD","Truck",261,"6","M","Manual","6","R",4500,3.54,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",20.4
+"719","NISSAN","FRONTIER 2WD","Truck",261,"6","A","Automatic","5","R",4500,3.13,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",20.2
+"720","NISSAN","FRONTIER 2WD FFV","Truck",261,"6","A","Automatic","5","R",4500,2.94,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",19.7
+"721","NISSAN","FRONTIER 2WD FFV","Truck",261,"6","A","Automatic","5","R",4500,2.94,"21","Federal fuel 2-day exhaust (w/can load)","38","E85 (85% Ethanol 15% EPA Unleaded Gasoline)",14
+"722","NISSAN","FRONTIER 2WD FFV","Truck",261,"6","A","Automatic","5","R",4500,3.13,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",19.5
+"723","NISSAN","FRONTIER 2WD FFV","Truck",261,"6","A","Automatic","5","R",4500,3.13,"21","Federal fuel 2-day exhaust (w/can load)","38","E85 (85% Ethanol 15% EPA Unleaded Gasoline)",13.9
+"724","NISSAN","FRONTIER 4WD","Truck",261,"6","A","Automatic","5","R",4750,3.36,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",18.9
+"725","NISSAN","FRONTIER 4WD","Truck",261,"6","A","Automatic","5","R",4750,3.13,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",19.2
+"726","NISSAN","FRONTIER 4WD","Truck",261,"6","M","Manual","6","R",5000,3.69,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",18.6
+"727","NISSAN","FRONTIER 4WD","Truck",261,"6","M","Manual","6","R",4750,3.69,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",19.6
+"728","NISSAN","FRONTIER 4WD","Truck",261,"6","A","Automatic","5","R",5000,3.36,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",18
+"729","NISSAN","FRONTIER 4WD FFV","Truck",261,"6","A","Automatic","5","R",4750,3.13,"3","HWFE","61","Tier 2 Cert Gasoline",30.1
+"730","NISSAN","FRONTIER 4WD FFV","Truck",261,"6","A","Automatic","5","R",4750,3.13,"21","Federal fuel 2-day exhaust (w/can load)","38","E85 (85% Ethanol 15% EPA Unleaded Gasoline)",13.3
+"731","NISSAN","FRONTIER 4WD FFV","Truck",261,"6","A","Automatic","5","R",5000,3.36,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",18
+"732","NISSAN","FRONTIER 4WD FFV","Truck",261,"6","A","Automatic","5","R",5000,3.36,"3","HWFE","38","E85 (85% Ethanol 15% EPA Unleaded Gasoline)",19.4
+"733","NISSAN","FRONTIER 4WD FFV","Truck",261,"6","A","Automatic","5","R",4750,3.36,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",19
+"734","NISSAN","FRONTIER 4WD FFV","Truck",261,"6","A","Automatic","5","R",4750,3.36,"21","Federal fuel 2-day exhaust (w/can load)","38","E85 (85% Ethanol 15% EPA Unleaded Gasoline)",13.4
+"735","NISSAN","MAXIMA","Car",300,"6","CVT","Continuously Variable","1","F",3875,5.25,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",26.5
+"736","NISSAN","MAXIMA","Car",300,"6","CVT","Continuously Variable","1","F",3750,5.25,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",27.1
+"737","NISSAN","NISSAN 370Z Touring","Car",332,"6","M","Manual","6","R",3625,3.69,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",22.6
+"738","NISSAN","NISSAN 370Z Touring","Car",332,"6","M","Manual","6","R",3875,3.69,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",21.8
+"739","NISSAN","NISSAN 370Z Touring","Car",332,"6","SA","Semi-Automatic","7","R",3625,3.36,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",23.8
+"740","NISSAN","NISSAN 370Z Touring","Car",332,"6","SA","Semi-Automatic","7","R",3875,3.36,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",22.7
+"741","NISSAN","NISSAN 370Z Touring","Car",332,"6","SA","Semi-Automatic","7","R",3750,3.36,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",23.1
+"742","NISSAN","NISSAN ALTIMA SL","Car",270,"6","CVT","Continuously Variable","1","F",3750,4.6,"90","US06","61","Tier 2 Cert Gasoline",29.6
+"743","NISSAN","NISSAN FRONTIER 2WD S 4-Cyl 5MT","Truck",152,"4","M","Manual","5","R",4000,4.08,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",24.3
+"744","NISSAN","NISSAN NV200 NYC Taxi STD","Car",135,"4","CVT","Continuously Variable","1","F",3875,4.83,"11","Cold CO","26","Cold CO Regular (Tier 2)",25.6
+"745","NISSAN","NISSAN NV200 NYC Taxi STD","Car",135,"4","CVT","Continuously Variable","1","F",3875,4.83,"3","HWFE","61","Tier 2 Cert Gasoline",40.5
+"746","NISSAN","PATHFINDER 2WD","Truck",284,"6","CVT","Continuously Variable","1","F",4750,5.25,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",24.9
+"747","NISSAN","PATHFINDER 4WD","Truck",284,"6","CVT","Continuously Variable","1","F",4750,5.25,"3","HWFE","61","Tier 2 Cert Gasoline",37.3
+"748","NISSAN","PATHFINDER 4WD","Truck",284,"6","CVT","Continuously Variable","1","F",5000,5.25,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",24.5
+"749","NISSAN","VERSA","Car",109,"4","CVT","Continuously Variable","1","F",2875,3.75,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",42.1
+"750","NISSAN","VERSA","Car",109,"4","CVT","Continuously Variable","1","F",2750,3.75,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",43
+"751","NISSAN","VERSA","Car",109,"4","M","Manual","5","F",2750,4.07,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",36.3
+"752","NISSAN","VERSA","Car",109,"4","M","Manual","5","F",2750,4.07,"3","HWFE","61","Tier 2 Cert Gasoline",52.5
+"753","NISSAN","VERSA","Car",109,"4","A","Automatic","4","F",2750,4.08,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",33.7
+"754","NISSAN","VERSA","Car",109,"4","CVT","Continuously Variable","1","F",2875,3.75,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",41.5
+"755","NISSAN","VERSA","Car",109,"4","CVT","Continuously Variable","1","F",2750,3.75,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",42.5
+"756","Porsche","911 Carrera","Car",370,"6","M","Manual","7","R",3625,3.44,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",25.1
+"757","Porsche","911 Carrera","Car",370,"6","AMS","Automated Manual- Selectable (e.g. Automated Manual with paddles)","7","R",3625,3.44,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",28.2
+"758","Porsche","911 Carrera 4","Car",370,"6","M","Manual","7","R",3750,3.44,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",24.6
+"759","Porsche","911 Carrera 4","Car",370,"6","AMS","Automated Manual- Selectable (e.g. Automated Manual with paddles)","7","R",3750,3.44,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",28
+"760","Porsche","911 Carrera 4 Cabriolet","Car",370,"6","AMS","Automated Manual- Selectable (e.g. Automated Manual with paddles)","7","R",3875,3.44,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",27.2
+"761","Porsche","911 Carrera 4 GTS","Car",450,"6","AMS","Automated Manual- Selectable (e.g. Automated Manual with paddles)","7","R",3875,3.59,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",25.1
+"762","Porsche","911 Carrera 4 GTS","Car",450,"6","M","Manual","7","R",3750,3.59,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",23.1
+"763","Porsche","911 Carrera 4 GTS Cabriolet","Car",450,"6","AMS","Automated Manual- Selectable (e.g. Automated Manual with paddles)","7","R",4000,3.59,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",25
+"764","Porsche","911 Carrera 4 GTS Cabriolet","Car",450,"6","M","Manual","7","R",3875,3.59,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",22.9
+"765","Porsche","911 Carrera 4S","Car",420,"6","M","Manual","7","R",3750,3.59,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",24.6
+"766","Porsche","911 Carrera 4S","Car",420,"6","AMS","Automated Manual- Selectable (e.g. Automated Manual with paddles)","7","R",3750,3.59,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",27
+"767","Porsche","911 Carrera 4S Cabriolet","Car",420,"6","AMS","Automated Manual- Selectable (e.g. Automated Manual with paddles)","7","R",3875,3.59,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",27.3
+"768","Porsche","911 Carrera Cabriolet","Car",370,"6","M","Manual","7","R",3750,3.44,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",24.7
+"769","Porsche","911 Carrera Cabriolet","Car",370,"6","AMS","Automated Manual- Selectable (e.g. Automated Manual with paddles)","7","R",3750,3.44,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",27.6
+"770","Porsche","911 Carrera GTS","Car",450,"6","AMS","Automated Manual- Selectable (e.g. Automated Manual with paddles)","7","R",3750,3.59,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",25.9
+"771","Porsche","911 Carrera GTS","Car",450,"6","M","Manual","7","R",3625,3.59,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",22.7
+"772","Porsche","911 Carrera GTS Cabriolet","Car",450,"6","AMS","Automated Manual- Selectable (e.g. Automated Manual with paddles)","7","R",3875,3.59,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",25.1
+"773","Porsche","911 Carrera GTS Cabriolet","Car",450,"6","M","Manual","7","R",3750,3.59,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",23.2
+"774","Porsche","911 Carrera S","Car",420,"6","M","Manual","7","R",3625,3.59,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",24.6
+"775","Porsche","911 Carrera S","Car",420,"6","AMS","Automated Manual- Selectable (e.g. Automated Manual with paddles)","7","R",3750,3.59,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",27.8
+"776","Porsche","911 Carrera S Cabriolet","Car",420,"6","M","Manual","7","R",3750,3.59,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",24.6
+"777","Porsche","911 Carrera S Cabriolet","Car",420,"6","AMS","Automated Manual- Selectable (e.g. Automated Manual with paddles)","7","R",3750,3.59,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",27.6
+"778","Porsche","911 GT3","Car",500,"6","AMS","Automated Manual- Selectable (e.g. Automated Manual with paddles)","7","R",3625,3.97,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",18.5
+"779","Porsche","911 GT3","Car",500,"6","M","Manual","6","R",3625,3.76,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",16
+"780","Porsche","911 Targa 4","Car",370,"6","M","Manual","7","R",3875,3.44,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",24.3
+"781","Porsche","911 Targa 4","Car",370,"6","AMS","Automated Manual- Selectable (e.g. Automated Manual with paddles)","7","R",4000,3.44,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",27.5
+"782","Porsche","911 Targa 4 GTS","Car",450,"6","AMS","Automated Manual- Selectable (e.g. Automated Manual with paddles)","7","R",4000,3.59,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",24.6
+"783","Porsche","911 Targa 4 GTS","Car",450,"6","M","Manual","7","R",4000,3.59,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",22.3
+"784","Porsche","911 Targa 4S","Car",420,"6","M","Manual","7","R",4000,3.59,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",24.3
+"785","Porsche","911 Targa 4S","Car",420,"6","AMS","Automated Manual- Selectable (e.g. Automated Manual with paddles)","7","R",4000,3.59,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",26.8
+"786","Porsche","911 Turbo S Cabriolet","Car",572,"6","AMS","Automated Manual- Selectable (e.g. Automated Manual with paddles)","7","R",4000,3.44,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",23.3
+"787","Porsche","911 Turbo S Coupe","Car",572,"6","AMS","Automated Manual- Selectable (e.g. Automated Manual with paddles)","7","R",3875,3.44,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",23.4
+"788","Porsche","911 Turbo S Exclusive","Car",607,"6","AMS","Automated Manual- Selectable (e.g. Automated Manual with paddles)","7","R",3875,3.44,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",21.2
+"789","Porsche","Boxster","Car",295,"4","AMS","Automated Manual- Selectable (e.g. Automated Manual with paddles)","7","R",3500,3.73,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",28.5
+"790","Porsche","Boxster","Car",295,"4","M","Manual","6","R",3375,3.89,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",27.1
+"791","Porsche","Boxster S","Car",345,"4","AMS","Automated Manual- Selectable (e.g. Automated Manual with paddles)","7","R",3500,3.73,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",27
+"792","Porsche","Boxster S","Car",345,"4","M","Manual","6","R",3500,3.89,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",24.6
+"793","Porsche","Cayenne","Both",300,"6","SA","Semi-Automatic","8","A",5000,3.7,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",22.8
+"794","Porsche","Cayenne GTS","Truck",440,"6","SA","Semi-Automatic","8","A",5500,3.7,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",20.2
+"795","Porsche","Cayenne Platinum","Truck",300,"6","SA","Semi-Automatic","8","R",5250,3.7,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",21.6
+"796","Porsche","Cayenne S","Truck",420,"6","SA","Semi-Automatic","8","A",5250,2.92,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",21.1
+"797","Porsche","Macan","Truck",239,"4","AMS","Automated Manual- Selectable (e.g. Automated Manual with paddles)","7","R",4500,4.67,"3","HWFE","61","Tier 2 Cert Gasoline",35.6
+"798","Porsche","Macan GTS","Truck",360,"6","AMS","Automated Manual- Selectable (e.g. Automated Manual with paddles)","7","R",4750,4.4,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",20.8
+"799","Porsche","Macan S","Truck",340,"6","AMS","Automated Manual- Selectable (e.g. Automated Manual with paddles)","7","R",4750,4.4,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",21.2
+"800","Porsche","Panamera","Car",330,"6","AMS","Automated Manual- Selectable (e.g. Automated Manual with paddles)","8","R",4500,3.36,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",27.1
+"801","Porsche","Panamera 4 Executive","Car",330,"6","AMS","Automated Manual- Selectable (e.g. Automated Manual with paddles)","8","R",4750,3.36,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",26.4
+"802","Porsche","Panamera 4S Executive","Car",440,"6","AMS","Automated Manual- Selectable (e.g. Automated Manual with paddles)","8","R",4750,3.36,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",26.3
+"803","Porsche","Panamera Turbo Executive","Car",550,"8","AMS","Automated Manual- Selectable (e.g. Automated Manual with paddles)","8","R",5000,3.15,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",23
+"804","Rolls Royce","Dawn","Car",563,"12","A","Automatic","8","R",6000,2.81,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",14.6
+"805","Rolls Royce","Ghost","Car",624,"12","SA","Semi-Automatic","8","R",6000,2.81,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",14.3
+"806","Rolls Royce","Ghost EWB","Car",563,"12","A","Automatic","8","R",6000,2.81,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",14.1
+"807","Rolls Royce","Phantom","Car",563,"12","SA","Semi-Automatic","8","R",6000,2.81,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",14.3
+"808","Rolls Royce","Wraith","Car",624,"12","A","Automatic","8","R",5500,2.81,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",15.1
+"809","SUBARU","CROSSTREK","Both",152,"4","SCV","Selectable Continuously Variable (e.g. CVT with paddles)","7","F",3500,3.9,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",34.6
+"810","SUBARU","CROSSTREK","Both",152,"4","CVT","Continuously Variable","1","F",3500,3.9,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",34.9
+"811","SUBARU","CROSSTREK","Both",152,"4","M","Manual","6","F",3500,4.44,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",29
+"812","SUBARU","FORESTER","Both",250,"4","CVT","Continuously Variable","1","F",4000,4.11,"3","HWFE","61","Tier 2 Cert Gasoline",38.6
+"813","SUBARU","FORESTER","Both",170,"4","SCV","Selectable Continuously Variable (e.g. CVT with paddles)","6","F",3750,3.7,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",32.9
+"814","SUBARU","FORESTER","Both",170,"4","M","Manual","6","F",3625,4.44,"3","HWFE","61","Tier 2 Cert Gasoline",40.2
+"815","SUBARU","IMPREZA 4-Door","Car",152,"4","CVT","Continuously Variable","1","F",3375,3.7,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",37.6
+"816","SUBARU","IMPREZA 4-Door","Car",152,"4","CVT","Continuously Variable","1","F",3500,3.7,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",35.4
+"817","SUBARU","IMPREZA 4-Door","Car",152,"4","SCV","Selectable Continuously Variable (e.g. CVT with paddles)","7","F",3375,3.7,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",34.2
+"818","SUBARU","IMPREZA 4-Door","Car",152,"4","M","Manual","5","F",3250,4.11,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",30.5
+"819","SUBARU","IMPREZA 4-Door","Car",152,"4","M","Manual","5","F",3375,4.11,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",30.3
+"820","SUBARU","IMPREZA 4-Door","Car",152,"4","M","Manual","5","F",3500,4.11,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",30
+"821","SUBARU","LEGACY","Both",175,"4","SCV","Selectable Continuously Variable (e.g. CVT with paddles)","1","F",3875,3.9,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",33.6
+"822","SUBARU","LEGACY","Both",256,"6","SCV","Selectable Continuously Variable (e.g. CVT with paddles)","1","F",4000,4.11,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",24.9
+"823","SUBARU","LEGACY","Both",175,"4","SCV","Selectable Continuously Variable (e.g. CVT with paddles)","6","F",3875,3.9,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",32.3
+"824","SUBARU","OUTBACK","Both",175,"4","SCV","Selectable Continuously Variable (e.g. CVT with paddles)","1","F",4000,4.11,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",32.1
+"825","SUBARU","OUTBACK","Both",256,"6","SCV","Selectable Continuously Variable (e.g. CVT with paddles)","1","F",4250,4.11,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",24.7
+"826","SUBARU","WRX","Both",268,"4","M","Manual","6","F",3625,4.11,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",26.8
+"827","SUBARU","WRX","Both",268,"4","SCV","Selectable Continuously Variable (e.g. CVT with paddles)","8","F",3875,3.9,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",19.4
+"828","SUBARU","WRX","Both",268,"4","M","Manual","6","F",3750,4.11,"3","HWFE","61","Tier 2 Cert Gasoline",37.8
+"829","SUBARU","WRX STI","Car",305,"4","M","Manual","6","F",3750,3.9,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",20.6
+"830","SUBARU","WRX STI","Car",305,"4","M","Manual","6","F",3875,3.9,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",20.5
+"831","LEXUS","ES 300h","Car",154,"4","CVT","Continuously Variable","1","F",4000,3.54,"95","SC03","23","CARB Phase II Gasoline",39.2
+"832","LEXUS","ES 300h","Car",154,"4","CVT","Continuously Variable","1","F",4000,3.54,"11","Cold CO","26","Cold CO Regular (Tier 2)",41.9
+"833","LEXUS","ES 300h","Car",154,"4","CVT","Continuously Variable","1","F",4000,3.54,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",55.3
+"834","LEXUS","ES 350","Car",268,"6","A","Automatic","6","F",3875,3.46,"35","California fuel 3-day exhaust","23","CARB Phase II Gasoline",25.9
+"835","LEXUS","ES 350","Car",268,"6","A","Automatic","6","F",3875,3.46,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",26.3
+"836","LEXUS","GS 200t F SPORT","Car",241,"4","A","Automatic","8","R",4250,3.13,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",26.3
+"837","LEXUS","GS 350","Car",311,"6","A","Automatic","8","R",4000,2.94,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",25
+"838","LEXUS","GS 350 AWD","Car",311,"6","A","Automatic","6","R",4250,3.77,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",24.2
+"839","LEXUS","GS 350 F SPORT","Car",311,"6","A","Automatic","8","R",4250,2.94,"3","HWFE","61","Tier 2 Cert Gasoline",38.5
+"840","LEXUS","GS 450h","Car",286,"6","CVT","Continuously Variable","1","R",4500,3.27,"95","SC03","61","Tier 2 Cert Gasoline",29.5
+"841","LEXUS","GS 450h","Car",286,"6","CVT","Continuously Variable","1","R",4500,3.27,"11","Cold CO","27","Cold CO Premium (Tier 2)",30.2
+"842","LEXUS","GX 460","Truck",301,"8","A","Automatic","6","R",5500,3.91,"90","US06","61","Tier 2 Cert Gasoline",17.1
+"843","LEXUS","IS 200t","Car",241,"4","A","Automatic","8","R",4000,2.94,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",28.3
+"844","LEXUS","LC 500","Car",471,"8","A","Automatic","10","R",4500,2.94,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",19.7
+"845","LEXUS","LC 500h","Car",295,"6","CVT","Continuously Variable","1","R",4750,3.36,"95","SC03","61","Tier 2 Cert Gasoline",28
+"846","LEXUS","LC 500h","Car",295,"6","CVT","Continuously Variable","1","R",4750,3.36,"11","Cold CO","27","Cold CO Premium (Tier 2)",26.8
+"847","LEXUS","LX 570","Truck",383,"8","A","Automatic","8","R",6500,3.31,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",15.8
+"848","LEXUS","NX 200t","Truck",235,"4","A","Automatic","6","F",4250,4.15,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",28.3
+"849","LEXUS","NX 200t AWD","Truck",235,"4","A","Automatic","6","F",4250,4.15,"3","HWFE","61","Tier 2 Cert Gasoline",39.3
+"850","LEXUS","NX 200t AWD F SPORT","Truck",235,"4","A","Automatic","6","F",4250,4.4,"3","HWFE","61","Tier 2 Cert Gasoline",36
+"851","LEXUS","NX 200t AWD F SPORT","Truck",235,"4","A","Automatic","6","F",4250,4.4,"3","HWFE","61","Tier 2 Cert Gasoline",36.4
+"852","LEXUS","NX 300h AWD","Truck",112,"4","CVT","Continuously Variable","1","F",4500,3.54,"3","HWFE","61","Tier 2 Cert Gasoline",43.5
+"853","SCION","iM","Car",137,"4","M","Manual","6","F",3375,4.21,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",34.8
+"854","SCION","iM","Car",137,"4","CVT","Continuously Variable","1","F",3375,5.05,"3","HWFE","61","Tier 2 Cert Gasoline",52.6
+"855","TOYOTA","4RUNNER 2WD","Truck",270,"6","A","Automatic","5","R",4750,3.73,"90","US06","61","Tier 2 Cert Gasoline",19.7
+"856","TOYOTA","4RUNNER 2WD","Truck",270,"6","A","Automatic","5","R",4750,3.73,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",21
+"857","TOYOTA","4RUNNER 4WD","Truck",270,"6","A","Automatic","5","R",5000,3.73,"3","HWFE","61","Tier 2 Cert Gasoline",29.7
+"858","TOYOTA","4RUNNER 4WD","Truck",270,"6","A","Automatic","5","R",5000,3.73,"90","US06","61","Tier 2 Cert Gasoline",18.3
+"859","TOYOTA","C-HR","Car",145,"4","CVT","Continuously Variable","1","F",3625,5.18,"95","SC03","61","Tier 2 Cert Gasoline",26.9
+"860","TOYOTA","C-HR","Car",145,"4","CVT","Continuously Variable","1","F",3625,5.18,"11","Cold CO","26","Cold CO Regular (Tier 2)",28.9
+"861","TOYOTA","CAMRY","Car",203,"4","A","Automatic","8","F",3500,2.8,"3","HWFE","61","Tier 2 Cert Gasoline",61.8
+"862","TOYOTA","CAMRY","Car",301,"6","A","Automatic","8","F",3875,2.56,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",28.6
+"863","TOYOTA","CAMRY HYBRID LE","Car",176,"4","CVT","Continuously Variable","1","F",3750,3.19,"95","SC03","61","Tier 2 Cert Gasoline",45.7
+"864","TOYOTA","CAMRY HYBRID LE","Car",176,"4","CVT","Continuously Variable","1","F",3750,3.19,"11","Cold CO","26","Cold CO Regular (Tier 2)",45.7
+"865","TOYOTA","CAMRY HYBRID LE","Car",176,"4","CVT","Continuously Variable","1","F",3750,3.19,"90","US06","61","Tier 2 Cert Gasoline",48.9
+"866","TOYOTA","CAMRY HYBRID LE","Car",176,"4","CVT","Continuously Variable","1","F",3750,3.19,"11","Cold CO","26","Cold CO Regular (Tier 2)",46.8
+"867","TOYOTA","CAMRY HYBRID XLE/SE","Car",176,"4","CVT","Continuously Variable","1","F",3875,3.19,"95","SC03","61","Tier 2 Cert Gasoline",41.6
+"868","TOYOTA","CAMRY HYBRID XLE/SE","Car",176,"4","CVT","Continuously Variable","1","F",3875,3.19,"11","Cold CO","26","Cold CO Regular (Tier 2)",42.3
+"869","TOYOTA","CAMRY LE/SE","Car",203,"4","A","Automatic","8","F",3625,2.8,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",36.2
+"870","TOYOTA","CAMRY XLE/XSE","Car",206,"4","A","Automatic","8","F",3750,2.8,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",35.6
+"871","TOYOTA","CAMRY XLE/XSE","Car",203,"4","A","Automatic","8","F",3625,2.8,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",37
+"872","TOYOTA","CAMRY XSE","Car",301,"6","A","Automatic","8","F",3875,2.56,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",29.1
+"873","TOYOTA","CAMRY XSE","Car",301,"6","A","Automatic","8","F",3875,2.56,"3","HWFE","61","Tier 2 Cert Gasoline",46.1
+"874","TOYOTA","COROLLA","Car",132,"4","M","Manual","6","F",3125,4.21,"35","California fuel 3-day exhaust","23","CARB Phase II Gasoline",35.6
+"875","TOYOTA","COROLLA","Car",132,"4","M","Manual","6","F",3125,4.21,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",36.7
+"876","TOYOTA","COROLLA","Car",132,"4","CVT","Continuously Variable","1","F",3125,4.76,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",36.8
+"877","TOYOTA","COROLLA LE ECO","Car",140,"4","CVT","Continuously Variable","1","F",3125,4.76,"3","HWFE","61","Tier 2 Cert Gasoline",58.6
+"878","TOYOTA","LAND CRUISER WAGON 4WD","Truck",381,"8","A","Automatic","8","R",6000,3.31,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",16.2
+"879","TOYOTA","PRIUS c","Car",72,"4","CVT","Continuously Variable","1","F",2875,3.19,"11","Cold CO","26","Cold CO Regular (Tier 2)",51.7
+"880","TOYOTA","PRIUS c","Car",72,"4","CVT","Continuously Variable","1","F",2875,3.19,"95","SC03","61","Tier 2 Cert Gasoline",41.3
+"881","TOYOTA","PRIUS c","Car",72,"4","CVT","Continuously Variable","1","F",2875,3.19,"95","SC03","61","Tier 2 Cert Gasoline",43.7
+"882","TOYOTA","PRIUS c","Car",72,"4","CVT","Continuously Variable","1","F",2875,3.19,"11","Cold CO","26","Cold CO Regular (Tier 2)",52.3
+"883","TOYOTA","RAV4","Truck",176,"4","A","Automatic","6","F",3750,3.82,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",30.1
+"884","TOYOTA","RAV4 AWD","Truck",176,"4","A","Automatic","6","F",3875,4.07,"3","HWFE","61","Tier 2 Cert Gasoline",40.4
+"885","TOYOTA","RAV4 HYBRID AWD","Truck",112,"4","CVT","Continuously Variable","1","F",4250,3.54,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",44.9
+"886","TOYOTA","RAV4 Limited AWD","Truck",176,"4","A","Automatic","6","F",3875,4.07,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",27.9
+"887","TOYOTA","SEQUOIA 2WD","Truck",381,"8","A","Automatic","6","R",6000,4.3,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",16.3
+"888","TOYOTA","SEQUOIA 4WD","Truck",381,"8","A","Automatic","6","R",6500,4.3,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",15.6
+"889","TOYOTA","SEQUOIA 4WD FFV","Truck",381,"8","A","Automatic","6","R",6500,4.3,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",15.6
+"890","TOYOTA","SEQUOIA 4WD FFV","Truck",381,"8","A","Automatic","6","R",6500,4.3,"21","Federal fuel 2-day exhaust (w/can load)","38","E85 (85% Ethanol 15% EPA Unleaded Gasoline)",11.3
+"891","TOYOTA","TUNDRA 2WD","Truck",310,"8","A","Automatic","6","R",5500,3.91,"3","HWFE","61","Tier 2 Cert Gasoline",26.4
+"892","TOYOTA","TUNDRA 2WD","Truck",381,"8","A","Automatic","6","R",5500,4.3,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",16.7
+"893","TOYOTA","TUNDRA 2WD","Truck",381,"8","A","Automatic","6","R",6000,4.3,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",16
+"894","TOYOTA","TUNDRA 4WD","Truck",310,"8","A","Automatic","6","R",6000,3.91,"3","HWFE","61","Tier 2 Cert Gasoline",25.6
+"895","TOYOTA","TUNDRA 4WD","Truck",381,"8","A","Automatic","6","R",6000,4.3,"3","HWFE","61","Tier 2 Cert Gasoline",22.7
+"896","TOYOTA","TUNDRA 4WD FFV","Truck",381,"8","A","Automatic","6","R",6000,4.3,"3","HWFE","61","Tier 2 Cert Gasoline",22.9
+"897","TOYOTA","TUNDRA 4WD FFV","Truck",381,"8","A","Automatic","6","R",6000,4.3,"21","Federal fuel 2-day exhaust (w/can load)","38","E85 (85% Ethanol 15% EPA Unleaded Gasoline)",11.4
+"898","TOYOTA","YARIS","Car",106,"4","A","Automatic","4","F",2625,4.24,"3","HWFE","61","Tier 2 Cert Gasoline",50.3
+"899","TOYOTA","YARIS","Car",106,"4","M","Manual","5","F",2625,3.72,"35","California fuel 3-day exhaust","23","CARB Phase II Gasoline",39.4
+"900","TOYOTA","YARIS","Car",106,"4","M","Manual","5","F",2625,3.72,"3","HWFE","61","Tier 2 Cert Gasoline",53.3
+"901","AUDI","A3","Car",186,"4","AMS","Automated Manual- Selectable (e.g. Automated Manual with paddles)","7","F",3750,3.13,"90","US06","61","Tier 2 Cert Gasoline",30.7
+"902","AUDI","A3","Car",186,"4","AMS","Automated Manual- Selectable (e.g. Automated Manual with paddles)","7","F",3750,3.13,"11","Cold CO","27","Cold CO Premium (Tier 2)",28.1
+"903","AUDI","A3","Car",186,"4","AMS","Automated Manual- Selectable (e.g. Automated Manual with paddles)","7","F",3500,3.13,"90","US06","61","Tier 2 Cert Gasoline",31.8
+"904","AUDI","A3","Car",186,"4","AMS","Automated Manual- Selectable (e.g. Automated Manual with paddles)","7","F",3500,3.13,"11","Cold CO","27","Cold CO Premium (Tier 2)",28.5
+"905","AUDI","A3 e-tron","Car",150,"4","AMS","Automated Manual- Selectable (e.g. Automated Manual with paddles)","6","A",3875,3.75,"11","Cold CO","27","Cold CO Premium (Tier 2)",32.7
+"906","AUDI","A3 e-tron","Car",150,"4","AMS","Automated Manual- Selectable (e.g. Automated Manual with paddles)","6","A",3875,3.75,"3","HWFE","61","Tier 2 Cert Gasoline",53.3
+"907","AUDI","A4","Car",252,"4","SA","Semi-Automatic","7","A",4000,4.27,"90","US06","61","Tier 2 Cert Gasoline",30.6
+"908","AUDI","A4","Car",252,"4","SA","Semi-Automatic","7","A",4250,4.27,"90","US06","61","Tier 2 Cert Gasoline",29
+"909","AUDI","A4","Car",252,"4","SA","Semi-Automatic","7","A",4250,4.27,"11","Cold CO","27","Cold CO Premium (Tier 2)",23.1
+"910","AUDI","A4","Both",252,"4","M","Manual","6","A",3875,3.56,"95","SC03","61","Tier 2 Cert Gasoline",25.9
+"911","AUDI","A4","Both",252,"4","M","Manual","6","A",3875,3.56,"11","Cold CO","27","Cold CO Premium (Tier 2)",24.6
+"912","AUDI","A4 Allroad","Car",252,"4","SA","Semi-Automatic","7","A",4250,4.01,"90","US06","61","Tier 2 Cert Gasoline",27.4
+"913","AUDI","A4 Allroad","Car",252,"4","SA","Semi-Automatic","7","A",4250,4.01,"11","Cold CO","27","Cold CO Premium (Tier 2)",22.7
+"914","AUDI","A4 ultra","Both",190,"4","SA","Semi-Automatic","7","F",3750,4.23,"95","SC03","61","Tier 2 Cert Gasoline",31
+"915","AUDI","A4 ultra","Both",190,"4","SA","Semi-Automatic","7","F",3750,4.23,"11","Cold CO","27","Cold CO Premium (Tier 2)",27.4
+"916","AUDI","A6","Car",340,"6","SA","Semi-Automatic","8","F",4500,2.85,"3","HWFE","61","Tier 2 Cert Gasoline",41
+"917","AUDI","A6","Car",340,"6","SA","Semi-Automatic","8","F",4750,2.85,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",25.2
+"918","AUDI","A8","Car",333,"6","SA","Semi-Automatic","8","F",4750,3.2,"95","SC03","61","Tier 2 Cert Gasoline",20.5
+"919","AUDI","A8","Car",333,"6","SA","Semi-Automatic","8","F",4750,3.2,"11","Cold CO","27","Cold CO Premium (Tier 2)",19.9
+"920","AUDI","A8","Car",435,"8","A","Automatic","8","A",5000,3.2,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",19.2
+"921","AUDI","A8","Car",435,"8","A","Automatic","8","A",5000,3.2,"11","Cold CO","27","Cold CO Premium (Tier 2)",15.7
+"922","AUDI","Audi A3","Car",220,"4","AMS","Automated Manual- Selectable (e.g. Automated Manual with paddles)","6","A",3875,3.44,"90","US06","61","Tier 2 Cert Gasoline",27.3
+"923","AUDI","Audi A3","Car",220,"4","AMS","Automated Manual- Selectable (e.g. Automated Manual with paddles)","6","A",3875,3.44,"11","Cold CO","27","Cold CO Premium (Tier 2)",23.6
+"924","AUDI","Audi A3","Car",220,"4","AMS","Automated Manual- Selectable (e.g. Automated Manual with paddles)","6","A",3750,3.44,"95","SC03","61","Tier 2 Cert Gasoline",24.6
+"925","AUDI","Audi A3","Car",220,"4","AMS","Automated Manual- Selectable (e.g. Automated Manual with paddles)","6","A",3750,3.44,"11","Cold CO","27","Cold CO Premium (Tier 2)",24.9
+"926","AUDI","Audi A3","Car",220,"4","AMS","Automated Manual- Selectable (e.g. Automated Manual with paddles)","6","A",3625,3.44,"3","HWFE","61","Tier 2 Cert Gasoline",45.3
+"927","AUDI","Audi A6","Car",252,"4","SA","Semi-Automatic","7","F",4250,4.41,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",32.5
+"928","AUDI","Audi A6","Car",252,"4","SA","Semi-Automatic","8","F",4250,3.08,"3","HWFE","61","Tier 2 Cert Gasoline",44.9
+"929","AUDI","Audi TT","Car",220,"4","AMS","Automated Manual- Selectable (e.g. Automated Manual with paddles)","6","F",3625,3.44,"95","SC03","61","Tier 2 Cert Gasoline",24.5
+"930","AUDI","Audi TT","Car",220,"4","AMS","Automated Manual- Selectable (e.g. Automated Manual with paddles)","6","F",3625,3.44,"11","Cold CO","27","Cold CO Premium (Tier 2)",24.1
+"931","AUDI","Audi TT","Car",220,"4","AMS","Automated Manual- Selectable (e.g. Automated Manual with paddles)","6","F",3500,3.44,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",29.2
+"932","AUDI","Audi TT","Car",220,"4","AMS","Automated Manual- Selectable (e.g. Automated Manual with paddles)","6","F",3500,3.44,"11","Cold CO","27","Cold CO Premium (Tier 2)",24.2
+"933","AUDI","Q3","Car",200,"4","SA","Semi-Automatic","6","A",4000,3.45,"11","Cold CO","27","Cold CO Premium (Tier 2)",19.6
+"934","AUDI","Q3","Car",200,"4","SA","Semi-Automatic","6","A",4000,3.45,"95","SC03","61","Tier 2 Cert Gasoline",22.5
+"935","AUDI","Q3","Car",200,"4","SA","Semi-Automatic","6","A",3875,3.45,"11","Cold CO","27","Cold CO Premium (Tier 2)",21.9
+"936","AUDI","Q3","Car",200,"4","SA","Semi-Automatic","6","A",3875,3.45,"95","SC03","61","Tier 2 Cert Gasoline",23.2
+"937","AUDI","Q5","Both",252,"4","SA","Semi-Automatic","7","F",4500,5.3,"90","US06","61","Tier 2 Cert Gasoline",25.1
+"938","AUDI","Q5","Both",252,"4","SA","Semi-Automatic","7","F",4500,5.3,"11","Cold CO","27","Cold CO Premium (Tier 2)",23.2
+"939","AUDI","Q7","Both",252,"4","SA","Semi-Automatic","8","A",5000,3.76,"95","SC03","61","Tier 2 Cert Gasoline",22.7
+"940","AUDI","Q7","Both",252,"4","SA","Semi-Automatic","8","A",5000,3.76,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",24.5
+"941","AUDI","Q7","Both",252,"4","SA","Semi-Automatic","8","A",5000,3.76,"11","Cold CO","27","Cold CO Premium (Tier 2)",18.9
+"942","AUDI","Q7","Truck",333,"6","SA","Semi-Automatic","8","F",5250,3.2,"3","HWFE","61","Tier 2 Cert Gasoline",35.2
+"943","AUDI","R8","Car",610,"10","AMS","Automated Manual- Selectable (e.g. Automated Manual with paddles)","7","A",3750,3.94,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",16.8
+"944","AUDI","R8","Car",610,"10","AMS","Automated Manual- Selectable (e.g. Automated Manual with paddles)","7","A",3750,3.94,"11","Cold CO","27","Cold CO Premium (Tier 2)",14.1
+"945","AUDI","R8","Car",610,"10","AMS","Automated Manual- Selectable (e.g. Automated Manual with paddles)","7","A",4000,3.94,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",16.8
+"946","AUDI","R8","Car",610,"10","AMS","Automated Manual- Selectable (e.g. Automated Manual with paddles)","7","A",4000,3.94,"11","Cold CO","27","Cold CO Premium (Tier 2)",15
+"947","AUDI","R8","Car",610,"10","AMS","Automated Manual- Selectable (e.g. Automated Manual with paddles)","7","A",4250,3.94,"11","Cold CO","27","Cold CO Premium (Tier 2)",13.5
+"948","AUDI","R8","Car",610,"10","AMS","Automated Manual- Selectable (e.g. Automated Manual with paddles)","7","A",4250,3.94,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",16.1
+"949","AUDI","R8","Car",540,"10","AMS","Automated Manual- Selectable (e.g. Automated Manual with paddles)","7","A",4250,3.59,"3","HWFE","61","Tier 2 Cert Gasoline",31.5
+"950","AUDI","R8","Car",540,"10","AMS","Automated Manual- Selectable (e.g. Automated Manual with paddles)","7","A",4250,3.59,"11","Cold CO","27","Cold CO Premium (Tier 2)",15.1
+"951","AUDI","R8","Car",540,"10","AMS","Automated Manual- Selectable (e.g. Automated Manual with paddles)","7","A",4000,3.59,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",17.3
+"952","AUDI","R8","Car",540,"10","AMS","Automated Manual- Selectable (e.g. Automated Manual with paddles)","7","A",4000,3.59,"11","Cold CO","27","Cold CO Premium (Tier 2)",14.7
+"953","AUDI","RS5","Both",450,"6","SA","Semi-Automatic","8","A",4250,3.2,"95","SC03","61","Tier 2 Cert Gasoline",23.3
+"954","AUDI","RS5","Both",450,"6","SA","Semi-Automatic","8","A",4250,3.2,"11","Cold CO","27","Cold CO Premium (Tier 2)",18.8
+"955","AUDI","RS7","Car",560,"8","AMS","Automated Manual- Selectable (e.g. Automated Manual with paddles)","8","A",4750,3.08,"11","Cold CO","27","Cold CO Premium (Tier 2)",12.9
+"956","AUDI","RS7","Car",560,"8","AMS","Automated Manual- Selectable (e.g. Automated Manual with paddles)","8","A",4750,3.08,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",16.5
+"957","AUDI","S3","Car",292,"4","AMS","Automated Manual- Selectable (e.g. Automated Manual with paddles)","7","F",3875,3.3,"3","HWFE","61","Tier 2 Cert Gasoline",40.8
+"958","AUDI","S3","Car",292,"4","AMS","Automated Manual- Selectable (e.g. Automated Manual with paddles)","7","F",3875,3.3,"11","Cold CO","27","Cold CO Premium (Tier 2)",23.3
+"959","AUDI","S4","Both",354,"6","SA","Semi-Automatic","8","A",4500,2.85,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",25.4
+"960","AUDI","S4","Both",354,"6","SA","Semi-Automatic","8","A",4500,2.85,"11","Cold CO","27","Cold CO Premium (Tier 2)",19.6
+"961","AUDI","S4","Both",354,"6","SA","Semi-Automatic","8","A",4250,2.85,"90","US06","61","Tier 2 Cert Gasoline",26.3
+"962","AUDI","S4","Both",354,"6","SA","Semi-Automatic","8","A",4250,2.85,"11","Cold CO","27","Cold CO Premium (Tier 2)",21.7
+"963","AUDI","S6","Car",450,"8","SA","Semi-Automatic","7","A",5000,3.63,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",19.4
+"964","AUDI","S6","Car",450,"8","SA","Semi-Automatic","7","A",5000,3.63,"11","Cold CO","27","Cold CO Premium (Tier 2)",16.2
+"965","AUDI","S8 Plus","Car",605,"8","SA","Semi-Automatic","8","A",5000,3.2,"90","US06","61","Tier 2 Cert Gasoline",20.9
+"966","AUDI","S8 Plus","Car",605,"8","SA","Semi-Automatic","8","A",5000,3.2,"11","Cold CO","27","Cold CO Premium (Tier 2)",15
+"967","AUDI","S8 Plus","Car",605,"8","SA","Semi-Automatic","8","A",5000,3.2,"95","SC03","61","Tier 2 Cert Gasoline",16.6
+"968","AUDI","SQ5","Both",354,"6","SA","Semi-Automatic","8","A",4750,3.2,"3","HWFE","61","Tier 2 Cert Gasoline",33
+"969","AUDI","TT RS","Car",400,"5","AMS","Automated Manual- Selectable (e.g. Automated Manual with paddles)","7","A",3625,3.45,"95","SC03","61","Tier 2 Cert Gasoline",22.2
+"970","AUDI","TT RS","Car",400,"5","AMS","Automated Manual- Selectable (e.g. Automated Manual with paddles)","7","A",3625,3.45,"11","Cold CO","27","Cold CO Premium (Tier 2)",19.6
+"971","AUDI","TT RS","Car",400,"5","AMS","Automated Manual- Selectable (e.g. Automated Manual with paddles)","7","A",3875,3.45,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",23.2
+"972","AUDI","TT RS","Car",400,"5","AMS","Automated Manual- Selectable (e.g. Automated Manual with paddles)","7","A",3875,3.45,"11","Cold CO","27","Cold CO Premium (Tier 2)",19.4
+"973","AUDI","TTS","Car",292,"4","AMS","Automated Manual- Selectable (e.g. Automated Manual with paddles)","6","F",3500,3.44,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",28.2
+"974","AUDI","TTS","Car",292,"4","AMS","Automated Manual- Selectable (e.g. Automated Manual with paddles)","6","F",3500,3.44,"11","Cold CO","27","Cold CO Premium (Tier 2)",23.6
+"975","BENTLEY","Bentayga","Truck",600,"12","SA","Semi-Automatic","8","A",6000,2.85,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",14.8
+"976","BENTLEY","Bentayga","Truck",600,"12","SA","Semi-Automatic","8","A",6000,2.85,"11","Cold CO","27","Cold CO Premium (Tier 2)",15.7
+"977","BENTLEY","Continental GT","Car",520,"8","SA","Semi-Automatic","8","A",6000,2.85,"90","US06","61","Tier 2 Cert Gasoline",19.2
+"978","BENTLEY","Continental GT","Car",520,"8","SA","Semi-Automatic","8","A",6000,2.85,"11","Cold CO","27","Cold CO Premium (Tier 2)",12.8
+"979","BENTLEY","Continental GT Supersports","Car",700,"12","SA","Semi-Automatic","8","A",6000,2.85,"95","SC03","61","Tier 2 Cert Gasoline",12.5
+"980","BENTLEY","Continental GT Supersports","Car",700,"12","SA","Semi-Automatic","8","A",6000,2.85,"11","Cold CO","27","Cold CO Premium (Tier 2)",11
+"981","BENTLEY","Mulsanne Speed","Car",530,"8","SA","Semi-Automatic","8","R",6500,2.92,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",13.8
+"982","BUGATTI","Bugatti Chiron","Car",1500,"16","SA","Semi-Automatic","7","A",4750,3.64,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",10.4
+"983","BUGATTI","Bugatti Chiron","Car",1500,"16","SA","Semi-Automatic","7","A",4750,3.64,"11","Cold CO","27","Cold CO Premium (Tier 2)",9.2
+"984","LAMBORGHINI","AVENTADOR","Car",740,"12","SA","Semi-Automatic","7","R",4250,2.87,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",11.8
+"985","LAMBORGHINI","AVENTADOR","Car",740,"12","SA","Semi-Automatic","7","R",4250,2.87,"11","Cold CO","27","Cold CO Premium (Tier 2)",10
+"986","LAMBORGHINI","AVENTADOR","Car",740,"12","SA","Semi-Automatic","7","R",4000,2.87,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",11.9
+"987","LAMBORGHINI","Huracan Superleggera","Car",630,"10","AMS","Automated Manual- Selectable (e.g. Automated Manual with paddles)","7","A",4000,3.94,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",15.8
+"988","LAMBORGHINI","Huracan Superleggera","Car",630,"10","AMS","Automated Manual- Selectable (e.g. Automated Manual with paddles)","7","A",4000,3.94,"11","Cold CO","27","Cold CO Premium (Tier 2)",13.5
+"989","LAMBORGHINI","Huracan Superleggera","Car",630,"10","AMS","Automated Manual- Selectable (e.g. Automated Manual with paddles)","7","A",3750,3.94,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",16
+"990","LAMBORGHINI","Huracan Superleggera","Car",630,"10","AMS","Automated Manual- Selectable (e.g. Automated Manual with paddles)","7","A",3750,3.94,"11","Cold CO","27","Cold CO Premium (Tier 2)",13.9
+"991","VOLKSWAGEN","Atlas","Truck",238,"4","SA","Semi-Automatic","8","F",4500,3.6,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",27.6
+"992","VOLKSWAGEN","Atlas","Truck",280,"6","A","Automatic","8","A",5000,3.53,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",21
+"993","VOLKSWAGEN","Atlas","Truck",280,"6","A","Automatic","8","A",4750,3.53,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",21.4
+"994","VOLKSWAGEN","Beetle","Car",174,"4","SA","Semi-Automatic","6","F",3625,3.23,"90","US06","61","Tier 2 Cert Gasoline",29.3
+"995","VOLKSWAGEN","Beetle","Car",174,"4","SA","Semi-Automatic","6","F",3625,3.23,"11","Cold CO","27","Cold CO Premium (Tier 2)",27.7
+"996","VOLKSWAGEN","Beetle","Car",174,"4","SA","Semi-Automatic","6","F",3500,3.23,"90","US06","61","Tier 2 Cert Gasoline",29.7
+"997","VOLKSWAGEN","Beetle","Car",174,"4","SA","Semi-Automatic","6","F",3500,3.23,"11","Cold CO","27","Cold CO Premium (Tier 2)",27.9
+"998","VOLKSWAGEN","Beetle","Car",174,"4","SA","Semi-Automatic","6","F",3375,3.23,"95","SC03","61","Tier 2 Cert Gasoline",32.5
+"999","VOLKSWAGEN","Beetle","Car",174,"4","SA","Semi-Automatic","6","F",3375,3.23,"11","Cold CO","27","Cold CO Premium (Tier 2)",27.7
+"1000","VOLKSWAGEN","Beetle","Car",210,"4","AMS","Automated Manual- Selectable (e.g. Automated Manual with paddles)","6","F",3500,3.14,"3","HWFE","61","Tier 2 Cert Gasoline",47.1
+"1001","VOLKSWAGEN","Golf Alltrack","Car",170,"4","A","Automatic","6","A",3750,3.33,"3","HWFE","61","Tier 2 Cert Gasoline",41.9
+"1002","VOLKSWAGEN","Golf Alltrack","Car",170,"4","A","Automatic","6","A",3750,3.33,"11","Cold CO","27","Cold CO Premium (Tier 2)",23.4
+"1003","VOLKSWAGEN","Golf R","Car",292,"4","M","Manual","6","A",3625,3.09,"90","US06","61","Tier 2 Cert Gasoline",28.3
+"1004","VOLKSWAGEN","Golf R","Car",292,"4","M","Manual","6","A",3625,3.09,"11","Cold CO","27","Cold CO Premium (Tier 2)",21.9
+"1005","VOLKSWAGEN","Golf R","Car",292,"4","AMS","Automated Manual- Selectable (e.g. Automated Manual with paddles)","7","A",3750,3.3,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",28
+"1006","VOLKSWAGEN","Golf R","Car",292,"4","AMS","Automated Manual- Selectable (e.g. Automated Manual with paddles)","7","A",3750,3.3,"11","Cold CO","27","Cold CO Premium (Tier 2)",23.8
+"1007","VOLKSWAGEN","GTI","Car",220,"4","AMS","Automated Manual- Selectable (e.g. Automated Manual with paddles)","6","F",3500,3.44,"95","SC03","61","Tier 2 Cert Gasoline",27.5
+"1008","VOLKSWAGEN","GTI","Car",220,"4","AMS","Automated Manual- Selectable (e.g. Automated Manual with paddles)","6","F",3500,3.44,"11","Cold CO","27","Cold CO Premium (Tier 2)",25.5
+"1009","VOLKSWAGEN","GTI","Car",217,"4","M","Manual","6","F",3500,2.62,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",29.7
+"1010","VOLKSWAGEN","GTI","Car",217,"4","M","Manual","6","F",3500,2.62,"11","Cold CO","27","Cold CO Premium (Tier 2)",27.3
+"1011","VOLKSWAGEN","Jetta","Car",170,"4","SA","Semi-Automatic","6","F",3500,3.23,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",31
+"1012","VOLKSWAGEN","Jetta","Car",150,"4","M","Manual","5","F",3250,3.65,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",37.3
+"1013","VOLKSWAGEN","Jetta","Car",150,"4","SA","Semi-Automatic","6","F",3375,3.23,"3","HWFE","61","Tier 2 Cert Gasoline",56.1
+"1014","VOLKSWAGEN","Passat","Car",174,"4","SA","Semi-Automatic","6","F",3625,3.23,"90","US06","61","Tier 2 Cert Gasoline",31.7
+"1015","VOLKSWAGEN","Passat","Car",174,"4","SA","Semi-Automatic","6","F",3625,3.23,"11","Cold CO","27","Cold CO Premium (Tier 2)",26.9
+"1016","VOLKSWAGEN","Passat","Car",280,"6","AMS","Automated Manual- Selectable (e.g. Automated Manual with paddles)","6","F",3875,3.44,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",23.4
+"1017","VOLKSWAGEN","Passat","Car",280,"6","AMS","Automated Manual- Selectable (e.g. Automated Manual with paddles)","6","F",3875,3.44,"11","Cold CO","27","Cold CO Premium (Tier 2)",21.3
+"1018","VOLKSWAGEN","Tiguan","Both",186,"4","SA","Semi-Automatic","8","F",4250,3.33,"90","US06","61","Tier 2 Cert Gasoline",23.5
+"1019","VOLKSWAGEN","Tiguan","Both",186,"4","SA","Semi-Automatic","8","F",4250,3.33,"11","Cold CO","27","Cold CO Premium (Tier 2)",23.5
+"1020","VOLKSWAGEN","Tiguan 4Motion","Both",186,"4","SA","Semi-Automatic","8","A",4250,3.33,"11","Cold CO","27","Cold CO Premium (Tier 2)",22.8
+"1021","VOLKSWAGEN","Tiguan 4Motion","Both",186,"4","SA","Semi-Automatic","8","A",4250,3.33,"95","SC03","61","Tier 2 Cert Gasoline",21.5
+"1022","Volvo","S60 Inscription T5 AWD","Both",240,"4","SA","Semi-Automatic","8","F",4250,3.08,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",28.7
+"1023","Volvo","S60 Inscription T5 FWD","Both",240,"4","SA","Semi-Automatic","8","F",4000,2.77,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",32.6
+"1024","Volvo","S60 Polestar AWD","Car",362,"4","SA","Semi-Automatic","8","F",4250,3.33,"3","HWFE","61","Tier 2 Cert Gasoline",38.9
+"1025","Volvo","S60 T6 AWD","Car",302,"4","SA","Semi-Automatic","8","F",4000,3.08,"3","HWFE","61","Tier 2 Cert Gasoline",45.4
+"1026","Volvo","S90 T5 AWD","Both",250,"4","SA","Semi-Automatic","8","F",4250,3.2,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",30
+"1027","Volvo","S90 T5 FWD","Both",250,"4","SA","Semi-Automatic","8","F",4250,3.08,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",30.6
+"1028","Volvo","S90 T6 AWD","Both",316,"4","SA","Semi-Automatic","8","F",4500,3.2,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",27.4
+"1029","Volvo","S90 T8 AWD","Car",313,"4","SA","Semi-Automatic","8","A",5000,3.2,"3","HWFE","61","Tier 2 Cert Gasoline",48.2
+"1030","Volvo","V60 CC T5 AWD","Both",240,"4","SA","Semi-Automatic","8","F",4250,3.33,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",27.8
+"1031","Volvo","V60 Polestar AWD","Car",362,"4","SA","Semi-Automatic","8","F",4250,3.33,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",24.7
+"1032","Volvo","V90CC T5 AWD","Both",250,"4","SA","Semi-Automatic","8","F",4500,3.33,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",28.9
+"1033","Volvo","V90CC T6 AWD","Both",316,"4","SA","Semi-Automatic","8","F",4500,3.33,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",27.4
+"1034","Volvo","XC60 T5 AWD","Both",250,"4","SA","Semi-Automatic","8","F",4500,3.33,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",27.9
+"1035","Volvo","XC60 T6 AWD","Both",250,"4","SA","Semi-Automatic","8","F",4500,3.33,"3","HWFE","61","Tier 2 Cert Gasoline",38.2
+"1036","Volvo","XC60 T8 AWD","Both",313,"4","SA","Semi-Automatic","8","A",5000,3.33,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",33.1
+"1037","Volvo","XC90 T5 AWD","Both",250,"4","SA","Semi-Automatic","8","F",5000,3.33,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",27.4
+"1038","Volvo","XC90 T5 FWD","Both",250,"4","SA","Semi-Automatic","8","F",4750,3.33,"31","Federal fuel 3-day exhaust","61","Tier 2 Cert Gasoline",28.6
+"1039","Volvo","XC90 T6 AWD","Both",316,"4","SA","Semi-Automatic","8","F",5000,3.33,"3","HWFE","61","Tier 2 Cert Gasoline",37.9
+"1040","Volvo","XC90 T8 AWD","Both",313,"4","SA","Semi-Automatic","8","A",5500,3.33,"21","Federal fuel 2-day exhaust (w/can load)","61","Tier 2 Cert Gasoline",33.3
