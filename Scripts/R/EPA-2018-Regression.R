@@ -8,6 +8,8 @@ library(GGally)
 # If you do not want to download the file, you can read it directly from the source into a dataframe.
 # epa <- read.csv("https://www.epa.gov/sites/production/files/2017-10/18tstcar.csv")
 
+
+
 # Set working dir if you download this locally
 # getwd()
 setwd("/Users/Shep/git/SQLShepBlog/data")
@@ -169,7 +171,7 @@ View(epa[c(4,5,10,11,12,14,15,16,18,22,23,34,35,36,37,46)])
 
 epaMpg <- epa[c(4,5,10,11,12,14,15,16,18,22,23,34,35,36,37,46)]
 
-names(epa)
+names(epaMpg)
 
 epaMpg$Cylinders <- as.factor(epaMpg$Cylinders)
 epaMpg$Tested.Transmission.Type.Code <- as.factor(epaMpg$Tested.Transmission.Type.Code)
@@ -189,14 +191,20 @@ options(scipen = 999)
 epaMpg.1 <- lm(FuelEcon ~ HorsePower + Cylinders + Tested.Transmission.Type.Code + Gears + Drive.System.Code + Weight + AxleRatio + Test.Procedure.Cd + Test.Fuel.Type.Cd,data=epaMpg)
 summary(epaMpg.1)
 
-HorsePower <- c(395,1500,395)
-Cylinders <- as.factor(c(8,16,8))
-Tested.Transmission.Type.Code <- as.factor(c("A","SA","A"))
-Gears <-as.factor(c(8,8,8))
-Drive.System.Code <- as.factor(c(4,"A",4))
-Weight <- c(5500,4750,5500)
-AxleRatio <-c(3.21,3.64,3.21)
-Test.Procedure.Cd <- as.factor(c(90,90,3))
+
+
+
+#write.csv(epaMpg, file = "epaMpg.csv")
+
+
+HorsePower <- c(395,1500,70)
+Cylinders <- as.factor(c(8,16,4))
+Tested.Transmission.Type.Code <- as.factor(c("A","SA","CVT"))
+Gears <-as.factor(c(8,8,1))
+Drive.System.Code <- as.factor(c(4,"A","F"))
+Weight <- c(5500,4750,2800)
+AxleRatio <-c(3.21,3.64,3.2)
+Test.Procedure.Cd <- as.factor(c(90,90,90))
 Test.Fuel.Type.Cd <- as.factor(c(61,61,61))
 
 newcars = data.frame(HorsePower,Cylinders,Tested.Transmission.Type.Code,Gears,Drive.System.Code,Weight,AxleRatio,Test.Procedure.Cd,Test.Fuel.Type.Cd)
@@ -215,7 +223,6 @@ summary(epaMpg.fwd1)
 
 epaMpg.back1 <- step(lm(FuelEcon ~ HorsePower + Cylinders + Tested.Transmission.Type.Code + Gears + Drive.System.Code + Weight + AxleRatio + Test.Procedure.Cd + Test.Fuel.Type.Cd,data=epaMpg), direction = "backward")
 summary(epaMpg.back1)
-
 
 
 ggplot(epa,aes(FuelEcon))+
