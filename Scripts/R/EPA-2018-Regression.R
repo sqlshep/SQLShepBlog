@@ -19,6 +19,7 @@ epa <- read.csv("18tstcar.csv",stringsAsFactors=FALSE)
 # there are several ways to rename columns, here are three ways to do it, 
 # choose your fav and stick with it
 
+
 names(epa)[12] <-paste("Cylinders")
 names(epa)[46] <-paste("FuelEcon")
 
@@ -56,6 +57,9 @@ epa[epa$Test.Vehicle.ID == "184HV863DA" ,c("Represented.Test.Veh.Make","Model","
 summary(epa$FuelEcon)
 NROW(epa)
 
+
+
+
 #  > summary(epa$FuelEcon)
 #  Min.  1st Qu.   Median     Mean  3rd Qu.     Max.     NA's 
 #  0.00    24.40    30.90    35.86    40.30 10000.00       12 
@@ -80,7 +84,7 @@ ggplot(epa,aes(FuelEcon,Weight))+
   geom_point()
 
 #  Well, its better but now i have what are clear outliers and one in the 400 mpg range. 
-#  Now, i once had a 3000 pund diesel car and it got no where near 400mpg, so i am going to assume this is 
+#  Now, i once had a 3000 pound diesel car and it got no where near 400mpg, so i am going to assume this is 
 #  either bad data or a Tesla.
 
 
@@ -98,6 +102,10 @@ mean(epa$FuelEcon) - mean(epa$FuelEcon)*2
 ################################################################################################
 
 View(filter(epa,   Test.Procedure.Description == "Charge Depleting Highway" | Test.Procedure.Description == "Charge Depleting UDDS"))
+
+
+epa <- filter(epa, "Test.Procedure.CD" != 81 & "Test.Procedure.CD" != 84)
+
 
 epa <- filter(epa,   Test.Procedure.Description != "Charge Depleting Highway" & Test.Procedure.Description != "Charge Depleting UDDS")
 
