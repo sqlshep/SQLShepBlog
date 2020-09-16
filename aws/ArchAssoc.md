@@ -4,18 +4,18 @@
 Here is a chart with the different services and what region they are available in.
 https://aws.amazon.com/about-aws/global-infrastructure/regional-product-services/
  
-Here is an overview of our infrastructure: https://infrastructure.aws/
+Here is an overview of our infrastructure: 
+https://infrastructure.aws/
 
 ### Module 2: The Simplest Architecture
 
 S3 bucket URLs and the different formats
 http://docs.aws.amazon.com/AmazonS3/latest/dev/UsingBucket.html#access-bucket-intro
  
-Multipart upload - https://docs.aws.amazon.com/AmazonS3/latest/dev/mpuoverview.html
-Amazon S3 Multipart Upload Limits
- 
+Multipart upload - Amazon S3 Multipart Upload Limits
+https://docs.aws.amazon.com/AmazonS3/latest/dev/mpuoverview.html
 
-Vault Lock Policies in Glacier:
+Vault Lock Policies in Glacier: 
 https://docs.aws.amazon.com/amazonglacier/latest/dev/vault-lock-policy.html
  
 Storage Gateway and the options inside including the “Tape Gateway” Virtual Tape Library and compatibility:
